@@ -88,12 +88,25 @@ section h2 {
   font-weight: bold;
   cursor: pointer;
   margin-top: 10px;
-  transition: background 0.2s;
+  transition: all 0.2s ease;
+  outline: none;
+  user-select: none;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
 }
 
 .fav-btn:hover,
 .remove-btn:hover {
   background: #cc0099;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(255, 0, 200, 0.3);
+}
+
+.fav-btn:active,
+.remove-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 4px rgba(255, 0, 200, 0.2);
 }
 
 .game-details.hidden {

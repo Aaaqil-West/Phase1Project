@@ -4408,19 +4408,5 @@
       "freetogame_profile_url": "https://www.freetogame.com/tibia"
     }
   ],
-  "favorites": [
-    {
-      "id": 511,
-      "title": "Phantasy Star Online 2 New Genesis",
-      "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
-      "short_description": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
-      "game_url": "https://www.freetogame.com/open/pso2-new-genesis",
-      "genre": "MMORPG",
-      "platform": "PC (Windows)",
-      "publisher": "Sega",
-      "developer": "Sega",
-      "release_date": "2021-06-09",
-      "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis"
-    }
-  ]
+  "favorites": []
 }

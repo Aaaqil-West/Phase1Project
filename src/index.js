@@ -1,5 +1,5 @@
-const API_URL = "http://localhost:3000/games";
-const FAVORITES_API = "http://localhost:3000/favorites";
+const API_URL = "http://localhost:3001/games";
+const FAVORITES_API = "http://localhost:3001/favorites";
 
 const gameListEl = document.getElementById("gameList");
 const gameDetailsEl = document.getElementById("gameDetails");
@@ -39,11 +39,12 @@ function displayGames(gameArray) {
       <h3>${game.title}</h3>
       <p><strong>Genre:</strong> ${game.genre}</p>
       <p><strong>Platform:</strong> ${game.platform}</p>
-      <button class="fav-btn">❤️ Favorite</button>
+      <button type="button" class="fav-btn">❤️ Favorite</button>
     `;
 
     card.addEventListener("click", () => showDetails(game));
     card.querySelector(".fav-btn").addEventListener("click", (e) => {
+      e.preventDefault();
       e.stopPropagation();
       saveToFavorites(game);
     });
@@ -121,10 +122,23 @@ function saveToFavorites(game) {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify(game)
-        }).then(loadFavorites);
+        })
+        .then(res => res.json())
+        .then(() => {
+          loadFavorites();
+          showNotification(`${game.title} added to favorites! ❤️`);
+        })
+        .catch(error => {
+          console.error('Error adding to favorites:', error);
+          showNotification('Error adding to favorites', 'error');
+        });
       } else {
-        alert("Already in favorites!");
+        showNotification("Already in favorites!", 'warning');
       }
+    })
+    .catch(error => {
+      console.error('Error checking favorites:', error);
+      showNotification('Error checking favorites', 'error');
     });
 }
 
@@ -142,9 +156,10 @@ function loadFavorites() {
           <h3>${game.title}</h3>
           <p><strong>Genre:</strong> ${game.genre}</p>
           <p><strong>Platform:</strong> ${game.platform}</p>
-          <button class="remove-btn">🗑 Remove</button>
+          <button type="button" class="remove-btn">🗑 Remove</button>
         `;
         card.querySelector(".remove-btn").addEventListener("click", (e) => {
+          e.preventDefault();
           e.stopPropagation();
           removeFavorite(game.id);
         });
@@ -154,12 +169,25 @@ function loadFavorites() {
     });
 }
 
-// Remove from favorites using consistent game.id
-function removeFavorite(id) {
-  fetch(`${FAVORITES_API}/${id}`, {
+// Remove from favorites
+function removeFavorite(gameId) {
+  fetch(`${FAVORITES_API}/${gameId}`, {
     method: "DELETE"
-  }).then(loadFavorites);
+  })
+  .then(res => {
+    if (res.ok) {
+      loadFavorites();
+      showNotification('Game removed from favorites! 🗑️');
+    } else {
+      throw new Error('Failed to remove from favorites');
+    }
+  })
+  .catch(error => {
+    console.error('Error removing from favorites:', error);
+    showNotification('Error removing from favorites', 'error');
+  });
 }
+
 
 // Render pagination buttons
 function renderPagination(filteredGames = games) {
@@ -188,6 +216,88 @@ function renderPagination(filteredGames = games) {
     paginationContainer.appendChild(btn);
   }
 }
+
+// Notification system
+function showNotification(message, type = 'success') {
+  // Remove existing notification
+  const existingNotification = document.querySelector('.notification');
+  if (existingNotification) {
+    existingNotification.remove();
+  }
+
+  // Create notification element
+  const notification = document.createElement('div');
+  notification.className = `notification ${type}`;
+  notification.textContent = message;
+  
+  // Add styles
+  notification.style.cssText = `
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    padding: 15px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    z-index: 1000;
+    animation: slideIn 0.3s ease;
+    max-width: 300px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  `;
+  
+  // Set background color based on type
+  switch(type) {
+    case 'success':
+      notification.style.background = 'linear-gradient(45deg, #00ff88, #00cc66)';
+      break;
+    case 'error':
+      notification.style.background = 'linear-gradient(45deg, #ff4444, #cc0000)';
+      break;
+    case 'warning':
+      notification.style.background = 'linear-gradient(45deg, #ffaa00, #ff8800)';
+      break;
+    default:
+      notification.style.background = 'linear-gradient(45deg, #7f00ff, #e100ff)';
+  }
+  
+  // Add to page
+  document.body.appendChild(notification);
+  
+  // Auto remove after 3 seconds
+  setTimeout(() => {
+    if (notification.parentNode) {
+      notification.style.animation = 'slideOut 0.3s ease';
+      setTimeout(() => notification.remove(), 300);
+    }
+  }, 3000);
+}
+
+// Add CSS animations
+const style = document.createElement('style');
+style.textContent = `
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideOut {
+    from {
+      transform: translateX(0);
+      opacity: 1;
+    }
+    to {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+  }
+`;
+document.head.appendChild(style);
 
 // Initial load
 loadFavorites();
