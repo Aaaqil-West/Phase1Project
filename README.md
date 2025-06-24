@@ -46,7 +46,7 @@ The application uses json-server to provide REST API endpoints:
 ## Technologies Used
 
 - HTML5
-- CSS3 (with modern grid and flexbox)
+- CSS
 - Vanilla JavaScript
 - JSON Server for REST API
 - Local JSON database
