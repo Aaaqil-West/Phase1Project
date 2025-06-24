@@ -1,0 +1,133 @@
+
+body {
+  margin: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: #0e0e0e;
+  color: #fff;
+}
+
+header {
+  background: linear-gradient(90deg, #7f00ff, #e100ff);
+  padding: 20px;
+  text-align: center;
+  color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+header h1 {
+  font-size: 2.5rem;
+  margin: 0 0 10px;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+input,
+select {
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  font-size: 1rem;
+  background-color: #1f1f1f;
+  color: white;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+section h2 {
+  font-size: 1.8rem;
+  border-bottom: 2px solid #ff00c8;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+.game-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.game-card {
+  background: #1a1a1a;
+  border: 2px solid #333;
+  padding: 15px;
+  border-radius: 10px;
+  transition: 0.3s ease;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(255, 0, 221, 0.3);
+}
+
+.game-card:hover {
+  transform: translateY(-5px);
+  border-color: #ff00c8;
+}
+
+.game-card img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.fav-btn,
+.remove-btn {
+  background: #ff00c8;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background 0.2s;
+}
+
+.fav-btn:hover,
+.remove-btn:hover {
+  background: #cc0099;
+}
+
+.game-details.hidden {
+  display: none;
+}
+
+a {
+  color: #ff00c8;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+#pagination {
+  text-align: center;
+  margin: 30px 0;
+}
+
+#pagination .page-btn {
+  background: #222;
+  border: 1px solid #ff00c8;
+  color: #fff;
+  padding: 8px 12px;
+  margin: 0 4px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#pagination .page-btn.active {
+  background: #ff00c8;
+  color: #000;
+}

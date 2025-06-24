@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Free to Play Games</title>
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>🎮 Free to Play Games</h1>
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Search games..." />
+      <select id="genreFilter">
+        <option value="">All Genres</option>
+      </select>
+      <select id="platformFilter">
+        <option value="">All Platforms</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Game List</h2>
+      <div id="gameList" class="game-list"></div>
+    </section>
+
+    <section>
+      <h2>Game Details</h2>
+      <div id="gameDetails" class="game-details hidden"></div>
+    </section>
+
+    <section>
+      <h2>My Favorites ❤️</h2>
+      <div id="favoritesList" class="game-list"></div>
+    </section>
+  </main>
+
+  
+  <div id="pagination"></div>
+
+  <script src="src/index.js"></script>
+</body>
+</html>
