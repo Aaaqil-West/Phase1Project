@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "id": 582,
+      "id": "582",
       "title": "Tarisland",
       "thumbnail": "https://www.freetogame.com/g/582/thumbnail.jpg",
       "short_description": "A cross-platform MMORPG developed by Level Infinite and Published by Tencent.",
@@ -14,7 +14,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/tarisland"
     },
     {
-      "id": 540,
+      "id": "540",
       "title": "Overwatch 2",
       "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
       "short_description": "A hero-focused first-person team shooter from Blizzard Entertainment.",
@@ -27,7 +27,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/overwatch-2"
     },
     {
-      "id": 516,
+      "id": "516",
       "title": "PUBG: BATTLEGROUNDS",
       "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
       "short_description": "Get into the action in one of the longest running battle royale games PUBG Battlegrounds.",
@@ -40,7 +40,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/pubg"
     },
     {
-      "id": 508,
+      "id": "508",
       "title": "Enlisted",
       "thumbnail": "https://www.freetogame.com/g/508/thumbnail.jpg",
       "short_description": "Get ready to command your own World War II military squad in Gaijin and Darkflow Software’s MMO squad-based shooter Enlisted. ",
@@ -53,7 +53,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/enlisted"
     },
     {
-      "id": 604,
+      "id": "604",
       "title": "FragPunk",
       "thumbnail": "https://www.freetogame.com/g/604/thumbnail.jpg",
       "short_description": "A free-to-play 5v5 hero shooter that uses cards to modify matches.",
@@ -66,7 +66,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fragpunk"
     },
     {
-      "id": 590,
+      "id": "590",
       "title": "Throne And Liberty",
       "thumbnail": "https://www.freetogame.com/g/590/thumbnail.jpg",
       "short_description": "A free-to-play multi-platorm MMORPG from NCSoft and Amazon Games.",
@@ -79,7 +79,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/throne-and-liberty"
     },
     {
-      "id": 523,
+      "id": "523",
       "title": "Fall Guys",
       "thumbnail": "https://www.freetogame.com/g/523/thumbnail.jpg",
       "short_description": "Play the most competitive massively multiplayer party royale game featuring beans ever for free on a variety of platforms. ",
@@ -92,7 +92,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fall-guys"
     },
     {
-      "id": 11,
+      "id": "11",
       "title": "Neverwinter",
       "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
       "short_description": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game. ",
@@ -105,7 +105,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/neverwinter"
     },
     {
-      "id": 517,
+      "id": "517",
       "title": "Lost Ark",
       "thumbnail": "https://www.freetogame.com/g/517/thumbnail.jpg",
       "short_description": "Smilegate’s free-to-play multiplayer ARPG is a massive adventure filled with lands waiting to be explored, people waiting to be met, and an ancient evil waiting to be destroyed.",
@@ -118,7 +118,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/lost-ark"
     },
     {
-      "id": 475,
+      "id": "475",
       "title": "Genshin Impact",
       "thumbnail": "https://www.freetogame.com/g/475/thumbnail.jpg",
       "short_description": "If you’ve been looking for a game to scratch that open-world action RPG itch, one with perhaps a bit of Asian flair, then you’re going to want to check out miHoYo’s Genshin Impact.",
@@ -131,7 +131,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/genshin-impact"
     },
     {
-      "id": 521,
+      "id": "521",
       "title": "Diablo Immortal",
       "thumbnail": "https://www.freetogame.com/g/521/thumbnail.jpg",
       "short_description": "Built for mobile and also released on PC, Diablo Immortal fills in the gaps between Diablo II and III in an MMOARPG environment.",
@@ -144,7 +144,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/diablo-immortal"
     },
     {
-      "id": 511,
+      "id": "511",
       "title": "Phantasy Star Online 2 New Genesis",
       "thumbnail": "https://www.freetogame.com/g/511/thumbnail.jpg",
       "short_description": "The legacy of Phantasy Star Online 2 continues a thousand years later!",
@@ -157,7 +157,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/pso2-new-genesis"
     },
     {
-      "id": 5,
+      "id": "5",
       "title": "Crossout",
       "thumbnail": "https://www.freetogame.com/g/5/thumbnail.jpg",
       "short_description": "A post-apocalyptic MMO vehicle combat game! ",
@@ -170,7 +170,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/crossout"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "World of Warships",
       "thumbnail": "https://www.freetogame.com/g/9/thumbnail.jpg",
       "short_description": "A 3D free to play naval action-themed MMO from the creators of World of Tanks! ",
@@ -183,7 +183,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/world-of-warships"
     },
     {
-      "id": 12,
+      "id": "12",
       "title": "War Thunder",
       "thumbnail": "https://www.freetogame.com/g/12/thumbnail.jpg",
       "short_description": "A MMO shooter that puts you in command of hundreds of the finest combat vehicles of World War II.",
@@ -196,7 +196,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/war-thunder"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "World of Tanks",
       "thumbnail": "https://www.freetogame.com/g/2/thumbnail.jpg",
       "short_description": "If you like blowing up tanks, with a quick and intense game style you will love this game!",
@@ -209,7 +209,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/world-of-tanks"
     },
     {
-      "id": 599,
+      "id": "599",
       "title": "Marvel Rivals",
       "thumbnail": "https://www.freetogame.com/g/599/thumbnail.jpg",
       "short_description": "A free-to-play superhero team shooter from NetEase.",
@@ -222,7 +222,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/marvel-rivals"
     },
     {
-      "id": 560,
+      "id": "560",
       "title": "Palia",
       "thumbnail": "https://www.freetogame.com/g/560/thumbnail.jpg",
       "short_description": "A cozy MMO with homebuilding and some adventure.",
@@ -235,7 +235,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/palia"
     },
     {
-      "id": 14,
+      "id": "14",
       "title": "Star Trek Online",
       "thumbnail": "https://www.freetogame.com/g/14/thumbnail.jpg",
       "short_description": "A free-to-play, 3D, Sci-Fi MMORPG based on the popular Star Trek series.",
@@ -248,7 +248,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/star-trek-online"
     },
     {
-      "id": 595,
+      "id": "595",
       "title": "Brighter Shores",
       "thumbnail": "https://www.freetogame.com/g/595/thumbnail.jpg",
       "short_description": "A point-and-click MMORPG from RuneScape's creator, Andrew Gower.",
@@ -261,7 +261,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/brighter-shores"
     },
     {
-      "id": 529,
+      "id": "529",
       "title": "Tower of Fantasy",
       "thumbnail": "https://www.freetogame.com/g/529/thumbnail.jpg",
       "short_description": "Tower of Fantasy is a 3D open-world RPG, anime-style sci-fi MMO RPG game with unique characters and beautiful open vistas!",
@@ -274,7 +274,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/tower-of-fantasy"
     },
     {
-      "id": 515,
+      "id": "515",
       "title": "Halo Infinite",
       "thumbnail": "https://www.freetogame.com/g/515/thumbnail.jpg",
       "short_description": "For the first time ever, a free-to-play Halo experience is available in the form of Halo Infinite’s multiplayer.",
@@ -287,7 +287,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/halo-infinite"
     },
     {
-      "id": 466,
+      "id": "466",
       "title": "Valorant",
       "thumbnail": "https://www.freetogame.com/g/466/thumbnail.jpg",
       "short_description": "Test your mettle in Riot Games’ character-based FPS shooter Valorant.",
@@ -300,7 +300,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/valorant"
     },
     {
-      "id": 467,
+      "id": "467",
       "title": "Phantasy Star Online 2",
       "thumbnail": "https://www.freetogame.com/g/467/thumbnail.jpg",
       "short_description": "Welcome to ARKS, and elite task force searching dangerous planets for the corrupted Falspawn in Phantasy Star 2 Online, Sega’s popular, free-to-play sci-fi MMORPG.",
@@ -313,7 +313,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/pso2"
     },
     {
-      "id": 452,
+      "id": "452",
       "title": "Call Of Duty: Warzone",
       "thumbnail": "https://www.freetogame.com/g/452/thumbnail.jpg",
       "short_description": "A standalone free-to-play battle royale and modes accessible via Call of Duty: Modern Warfare.",
@@ -326,7 +326,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/call-of-duty-warzone"
     },
     {
-      "id": 21,
+      "id": "21",
       "title": "Destiny 2",
       "thumbnail": "https://www.freetogame.com/g/21/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer Sci-Fi MMOFPS from Bungie.",
@@ -339,7 +339,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/destiny-2"
     },
     {
-      "id": 23,
+      "id": "23",
       "title": "Apex Legends",
       "thumbnail": "https://www.freetogame.com/g/23/thumbnail.jpg",
       "short_description": "A free-to-play strategic battle royale game featuring 60-player matches and team-based play. ",
@@ -352,7 +352,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/apex-legends"
     },
     {
-      "id": 57,
+      "id": "57",
       "title": "Fortnite",
       "thumbnail": "https://www.freetogame.com/g/57/thumbnail.jpg",
       "short_description": "A free-to-play, standalone mode of Epic Game's Fortnite. ",
@@ -365,7 +365,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fortnite-battle-royale"
     },
     {
-      "id": 449,
+      "id": "449",
       "title": "Albion Online",
       "thumbnail": "https://www.freetogame.com/g/449/thumbnail.jpg",
       "short_description": "A free-to-play cross-platform sandbox MMO developed and published by Sandbox Interactive GmbH. ",
@@ -378,7 +378,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/albion-online"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Blade and Soul",
       "thumbnail": "https://www.freetogame.com/g/6/thumbnail.jpg",
       "short_description": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks.",
@@ -391,7 +391,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/blade-and-soul"
     },
     {
-      "id": 212,
+      "id": "212",
       "title": "Brawlhalla",
       "thumbnail": "https://www.freetogame.com/g/212/thumbnail.jpg",
       "short_description": "A free-to-play 2D platform fighter inspired by the Smash Bros.",
@@ -404,7 +404,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/brawlhalla"
     },
     {
-      "id": 8,
+      "id": "8",
       "title": "Trove",
       "thumbnail": "https://www.freetogame.com/g/8/thumbnail.jpg",
       "short_description": "A free to play Sandbox massively multiplayer online role-playing game! ",
@@ -417,7 +417,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/trove"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Warframe",
       "thumbnail": "https://www.freetogame.com/g/3/thumbnail.jpg",
       "short_description": "A cooperative free-to-play third person online action shooter set in an stunning sci-fi world. ",
@@ -430,7 +430,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/warframe"
     },
     {
-      "id": 13,
+      "id": "13",
       "title": "Guild Wars 2",
       "thumbnail": "https://www.freetogame.com/g/13/thumbnail.jpg",
       "short_description": "A free-to-play MMORPG, the follow-up to ArenaNet's popular Guild Wars. ",
@@ -443,7 +443,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/guild-wars-2"
     },
     {
-      "id": 433,
+      "id": "433",
       "title": "RuneScape",
       "thumbnail": "https://www.freetogame.com/g/433/thumbnail.jpg",
       "short_description": "A popular 3D browser MMORPG boasting a huge player base and 15 years of content.",
@@ -456,7 +456,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/runescape"
     },
     {
-      "id": 609,
+      "id": "609",
       "title": "Crystal Of Atlan",
       "thumbnail": "https://www.freetogame.com/g/609/thumbnail.jpg",
       "short_description": "A magicpunk MMORPG from Nuverse.",
@@ -469,7 +469,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/crystal-of-atlan"
     },
     {
-      "id": 610,
+      "id": "610",
       "title": "Splitgate 2",
       "thumbnail": "https://www.freetogame.com/g/610/thumbnail.jpg",
       "short_description": "A free-to-play shooter using portals.",
@@ -482,7 +482,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/splitgate-2"
     },
     {
-      "id": 606,
+      "id": "606",
       "title": "Steel Hunters",
       "thumbnail": "https://www.freetogame.com/g/606/thumbnail.jpg",
       "short_description": "A post-apocalyptic extraction shooter with giant mechs.",
@@ -495,7 +495,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/steel-hunters"
     },
     {
-      "id": 607,
+      "id": "607",
       "title": "The Lost Glitches",
       "thumbnail": "https://www.freetogame.com/g/607/thumbnail.jpg",
       "short_description": "A cyberpunk RPG trading card game from Honig Studios.",
@@ -508,7 +508,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/the-lost-glitches"
     },
     {
-      "id": 608,
+      "id": "608",
       "title": "Odin: Valhalla Rising",
       "thumbnail": "https://www.freetogame.com/g/608/thumbnail.jpg",
       "short_description": "An open-world MMORPG based on Norse mythology.",
@@ -521,7 +521,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/odin-valhalla-rising"
     },
     {
-      "id": 603,
+      "id": "603",
       "title": "War Robots: Frontiers",
       "thumbnail": "https://www.freetogame.com/g/603/thumbnail.jpg",
       "short_description": "A multiplayer mech game set in a planetary system light years from Earth.",
@@ -534,7 +534,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/war-robots-frontiers"
     },
     {
-      "id": 601,
+      "id": "601",
       "title": "Delta Force",
       "thumbnail": "https://www.freetogame.com/g/601/thumbnail.jpg",
       "short_description": "A free-to-play team-based tactical shooter.",
@@ -547,7 +547,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/delta-force"
     },
     {
-      "id": 597,
+      "id": "597",
       "title": "Strinova",
       "thumbnail": "https://www.freetogame.com/g/597/thumbnail.jpg",
       "short_description": "A third-person tactical shooter that features the unique mechanic of allowing players to switch between three-dimensional and two-dimensional forms.",
@@ -560,7 +560,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/strinova"
     },
     {
-      "id": 598,
+      "id": "598",
       "title": "SUPERVIVE",
       "thumbnail": "https://www.freetogame.com/g/598/thumbnail.jpg",
       "short_description": "Combine MOBAs, battle royales, and hero shooters into one fast paced game hand you have SUPERVIVE.",
@@ -573,7 +573,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/supervive"
     },
     {
-      "id": 592,
+      "id": "592",
       "title": "Starborne: Frontiers",
       "thumbnail": "https://www.freetogame.com/g/592/thumbnail.jpg",
       "short_description": "A tactical autobattler set 400 years in the future.",
@@ -586,7 +586,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/starborne-frontiers"
     },
     {
-      "id": 593,
+      "id": "593",
       "title": "Return Alive",
       "thumbnail": "https://www.freetogame.com/g/593/thumbnail.jpg",
       "short_description": "A free-to-play top-down tactical shooter.",
@@ -599,7 +599,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/return-alive"
     },
     {
-      "id": 587,
+      "id": "587",
       "title": "Spectre Divide",
       "thumbnail": "https://www.freetogame.com/g/587/thumbnail.jpg",
       "short_description": "A 3v3 tactical shooter developed and published by Mountaintop Studios in partnership with former pro gamer shroud,",
@@ -612,7 +612,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/spectre-divide"
     },
     {
-      "id": 588,
+      "id": "588",
       "title": "Vigor",
       "thumbnail": "https://www.freetogame.com/g/588/thumbnail.jpg",
       "short_description": "A free-to-play looter shooter from the developers of Operation Flashpoint and the Arma series.",
@@ -625,7 +625,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/vigor"
     },
     {
-      "id": 602,
+      "id": "602",
       "title": "Smite 2",
       "thumbnail": "https://www.freetogame.com/g/602/thumbnail.jpg",
       "short_description": "The free-to-play Unreal Engine 5-powered sequel to the popular third-person MOBA",
@@ -638,7 +638,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/smite-2"
     },
     {
-      "id": 583,
+      "id": "583",
       "title": "The First Descendant",
       "thumbnail": "https://www.freetogame.com/g/583/thumbnail.jpg",
       "short_description": "A free-to-play third-person co-op looter shooter developed and published by Nexon.",
@@ -651,7 +651,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/the-first-descendant"
     },
     {
-      "id": 584,
+      "id": "584",
       "title": "Once Human",
       "thumbnail": "https://www.freetogame.com/g/584/thumbnail.jpg",
       "short_description": "A post-apocalyptic open-world survival game from Starry Studio.",
@@ -664,7 +664,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/once-human"
     },
     {
-      "id": 586,
+      "id": "586",
       "title": "Stormgate",
       "thumbnail": "https://www.freetogame.com/g/586/thumbnail.jpg",
       "short_description": "A free-to-play science fantasy real-time strategy game in which humans and robots defend Earth from alien forces.",
@@ -677,7 +677,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/stormgate"
     },
     {
-      "id": 596,
+      "id": "596",
       "title": "Fractured Online",
       "thumbnail": "https://www.freetogame.com/g/596/thumbnail.jpg",
       "short_description": "A free-to-play open-world sandbox MMORPG from developer and publisher Dynamight Studios",
@@ -690,7 +690,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fractured-online"
     },
     {
-      "id": 591,
+      "id": "591",
       "title": "Battle Crush",
       "thumbnail": "https://www.freetogame.com/g/591/thumbnail.jpg",
       "short_description": "An action brawler for up to 30 players.",
@@ -703,7 +703,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/battle-crush"
     },
     {
-      "id": 580,
+      "id": "580",
       "title": "Screenplay CCG",
       "thumbnail": "https://www.freetogame.com/g/580/thumbnail.jpg",
       "short_description": "A collectible card game inspired by movie making.",
@@ -716,7 +716,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/screenplay"
     },
     {
-      "id": 585,
+      "id": "585",
       "title": "SolForge Fusion",
       "thumbnail": "https://www.freetogame.com/g/585/thumbnail.jpg",
       "short_description": "A card-battling game in which each card levels up and becomes more powerful.",
@@ -729,7 +729,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/solforge-fusion"
     },
     {
-      "id": 589,
+      "id": "589",
       "title": "Sky: Children of the Light",
       "thumbnail": "https://www.freetogame.com/g/589/thumbnail.jpg",
       "short_description": "A cozy free-to-play MMORPG from thatgamecompany.",
@@ -742,7 +742,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/sky-children-of-the-light"
     },
     {
-      "id": 578,
+      "id": "578",
       "title": "Predecessor",
       "thumbnail": "https://www.freetogame.com/g/578/thumbnail.jpg",
       "short_description": "A free-to-play MOBA shooter developed and published by Omeda Studios.",
@@ -755,7 +755,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/predecessor"
     },
     {
-      "id": 579,
+      "id": "579",
       "title": "Project Apidom",
       "thumbnail": "https://www.freetogame.com/g/579/thumbnail.jpg",
       "short_description": "A free-to-play apocalyptic extraction RPG with MOBA-like combat.",
@@ -768,7 +768,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/project-apidom"
     },
     {
-      "id": 572,
+      "id": "572",
       "title": "Ravendawn",
       "thumbnail": "https://www.freetogame.com/g/572/thumbnail.jpg",
       "short_description": "A 2D top-down MMORPG featuring homesteading and building mechanics.",
@@ -781,7 +781,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ravendawn"
     },
     {
-      "id": 575,
+      "id": "575",
       "title": "One Punch Man: World",
       "thumbnail": "https://www.freetogame.com/g/575/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer 3D action game from Crunchyroll Games.",
@@ -794,7 +794,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/one-punch-man-world"
     },
     {
-      "id": 576,
+      "id": "576",
       "title": "Battle Teams 2",
       "thumbnail": "https://www.freetogame.com/g/576/thumbnail.jpg",
       "short_description": "A multiplayer tactical shooter with an Eastern aesthetic.",
@@ -807,7 +807,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/battle-teams-2"
     },
     {
-      "id": 570,
+      "id": "570",
       "title": "The Finals",
       "thumbnail": "https://www.freetogame.com/g/570/thumbnail.jpg",
       "short_description": "A game-show style PvP shooter from Embark Studios.",
@@ -820,7 +820,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/the-finals"
     },
     {
-      "id": 571,
+      "id": "571",
       "title": "Infinite Borders",
       "thumbnail": "https://www.freetogame.com/g/571/thumbnail.jpg",
       "short_description": "A free-to-play strategy game from NetEase set during China’s Three Kingdoms period.",
@@ -833,7 +833,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/infinite-borders"
     },
     {
-      "id": 569,
+      "id": "569",
       "title": "Destiny's Divide",
       "thumbnail": "https://www.freetogame.com/g/569/thumbnail.jpg",
       "short_description": "Free-to-play PvP Fantasy Card Game for competitive card game players.",
@@ -846,7 +846,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/destinys-divide"
     },
     {
-      "id": 568,
+      "id": "568",
       "title": "Warhammer 40,000: Warpforge",
       "thumbnail": "https://www.freetogame.com/g/568/thumbnail.jpg",
       "short_description": "A free-to-play CCG set in the Warhammer 40K universe.",
@@ -859,7 +859,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/warhammer-40000-warpforge"
     },
     {
-      "id": 567,
+      "id": "567",
       "title": "Microvolts: Recharged",
       "thumbnail": "https://www.freetogame.com/g/567/thumbnail.jpg",
       "short_description": "A lobby-based third-person shooter with a toy-theme.",
@@ -872,7 +872,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/microvolts"
     },
     {
-      "id": 577,
+      "id": "577",
       "title": "Deceit 2",
       "thumbnail": "https://www.freetogame.com/g/577/thumbnail.jpg",
       "short_description": "A social deduction game from World Makers.",
@@ -885,7 +885,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/deceit-2"
     },
     {
-      "id": 558,
+      "id": "558",
       "title": "Hawked",
       "thumbnail": "https://www.freetogame.com/g/558/thumbnail.jpg",
       "short_description": "A free-to-play PvPvE treasure hunting shooter.",
@@ -898,7 +898,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/hawked"
     },
     {
-      "id": 559,
+      "id": "559",
       "title": "Tales Of Yore",
       "thumbnail": "https://www.freetogame.com/g/559/thumbnail.jpg",
       "short_description": "A 2D MMORPG with lots of RPG tropes.",
@@ -911,7 +911,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/tales-of-yore"
     },
     {
-      "id": 562,
+      "id": "562",
       "title": "Waven",
       "thumbnail": "https://www.freetogame.com/g/562/thumbnail.jpg",
       "short_description": "A free-to-play online tactical RPG from Ankama.",
@@ -924,7 +924,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/waven"
     },
     {
-      "id": 566,
+      "id": "566",
       "title": "Town of Salem 2",
       "thumbnail": "https://www.freetogame.com/g/566/thumbnail.jpg",
       "short_description": "A deduction game set in Salem.",
@@ -937,7 +937,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/town-of-salem-2"
     },
     {
-      "id": 556,
+      "id": "556",
       "title": "Naraka: Bladepoint",
       "thumbnail": "https://www.freetogame.com/g/556/thumbnail.jpg",
       "short_description": "A free-to-play melee focused battle royale.",
@@ -950,7 +950,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/naraka-bladepoint"
     },
     {
-      "id": 554,
+      "id": "554",
       "title": "Undawn",
       "thumbnail": "https://www.freetogame.com/g/554/thumbnail.jpg",
       "short_description": "A free-to-play open-world survival RPG developed by LightSpeed studios and published by Level Infinite.",
@@ -963,7 +963,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/undawn"
     },
     {
-      "id": 268,
+      "id": "268",
       "title": "Eden Eternal",
       "thumbnail": "https://www.freetogame.com/g/268/thumbnail.jpg",
       "short_description": "A free to play fantasy MMORPG with cute anime-inspired graphics.",
@@ -976,7 +976,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/eden-eternal"
     },
     {
-      "id": 551,
+      "id": "551",
       "title": "Veiled Experts",
       "thumbnail": "https://www.freetogame.com/g/551/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer shooter game focused on the search and destroy mode of classic shooters.",
@@ -989,7 +989,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/veiled-experts"
     },
     {
-      "id": 552,
+      "id": "552",
       "title": "Jected - Rivals",
       "thumbnail": "https://www.freetogame.com/g/552/thumbnail.jpg",
       "short_description": "A free-to-play game mixing extreme sports with destructible vehicles and a unique ejection mechanic.",
@@ -1002,7 +1002,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/jected-rivals"
     },
     {
-      "id": 557,
+      "id": "557",
       "title": "Ethyrial: Echoes of Yore",
       "thumbnail": "https://www.freetogame.com/g/557/thumbnail.jpg",
       "short_description": "A old-school MMORPG set in a world on the brink of Civil War",
@@ -1015,7 +1015,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ethyrial-echoes-of-yore"
     },
     {
-      "id": 605,
+      "id": "605",
       "title": "Honkai: Star Rail",
       "thumbnail": "https://www.freetogame.com/g/605/thumbnail.jpg",
       "short_description": "A free-to-play sci-fantasy game from HoYoVerse",
@@ -1028,7 +1028,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/honkai-star-rail"
     },
     {
-      "id": 547,
+      "id": "547",
       "title": "Warlander",
       "thumbnail": "https://www.freetogame.com/g/547/thumbnail.jpg",
       "short_description": "A medieval-style combat game with a selection of modes and characters.",
@@ -1041,7 +1041,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/warlander"
     },
     {
-      "id": 594,
+      "id": "594",
       "title": "Stalcraft: X",
       "thumbnail": "https://www.freetogame.com/g/594/thumbnail.jpg",
       "short_description": "A free-to-play MMOFPS set in an open-world.",
@@ -1054,7 +1054,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/stalcraft-x"
     },
     {
-      "id": 545,
+      "id": "545",
       "title": "Fangs",
       "thumbnail": "https://www.freetogame.com/g/545/thumbnail.jpg",
       "short_description": "A 4v4 MOBA with hero-specific strategies.",
@@ -1067,7 +1067,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fangs"
     },
     {
-      "id": 549,
+      "id": "549",
       "title": "Summoners War: Chronicles",
       "thumbnail": "https://www.freetogame.com/g/549/thumbnail.jpg",
       "short_description": "A multi-platform ARPG set in the Summoners War universe.",
@@ -1080,7 +1080,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/summoners-war-chronicles"
     },
     {
-      "id": 541,
+      "id": "541",
       "title": "Marvel Snap",
       "thumbnail": "https://www.freetogame.com/g/541/thumbnail.jpg",
       "short_description": "A fast paced strategy card game set in the Marvel universe.",
@@ -1093,7 +1093,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/marvel-snap"
     },
     {
-      "id": 542,
+      "id": "542",
       "title": "World Boss",
       "thumbnail": "https://www.freetogame.com/g/542/thumbnail.jpg",
       "short_description": "An experimental FPS based on io and roguelike gameplay.",
@@ -1106,7 +1106,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/world-boss"
     },
     {
-      "id": 536,
+      "id": "536",
       "title": "Omega Strikers",
       "thumbnail": "https://www.freetogame.com/g/536/thumbnail.jpg",
       "short_description": "A 3v3 socccer-style game with knockouts.",
@@ -1119,7 +1119,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/omega-strikers"
     },
     {
-      "id": 537,
+      "id": "537",
       "title": "Gundam Evolution",
       "thumbnail": "https://www.freetogame.com/g/537/thumbnail.jpg",
       "short_description": "A 6v6 team-based shooter based on the Gundam multiverse",
@@ -1132,7 +1132,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/gundam-evolution"
     },
     {
-      "id": 544,
+      "id": "544",
       "title": "Galahad 3093",
       "thumbnail": "https://www.freetogame.com/g/544/thumbnail.jpg",
       "short_description": "A 12v12 team shooter featuring mechs based on Arthurian legend.",
@@ -1145,7 +1145,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/galahad-3093"
     },
     {
-      "id": 527,
+      "id": "527",
       "title": "Aero Tales Online",
       "thumbnail": "https://www.freetogame.com/g/527/thumbnail.jpg",
       "short_description": "Aero Tales Online: The World is a free-to-play 3D anime-style MMORPG with PvP and PvE elements. The game revolves around the “mysterious story of the Key of Skylight”.",
@@ -1158,7 +1158,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/aero-tales-online"
     },
     {
-      "id": 531,
+      "id": "531",
       "title": "Magic Spellslingers",
       "thumbnail": "https://www.freetogame.com/g/531/thumbnail.jpg",
       "short_description": "Magic Spellslingers is the latest entry based on Witzards of the Coast’s popular card game Magic: The Gathering.",
@@ -1171,7 +1171,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/magic-spellslingers"
     },
     {
-      "id": 533,
+      "id": "533",
       "title": "A.V.A Global",
       "thumbnail": "https://www.freetogame.com/g/533/thumbnail.jpg",
       "short_description": "A.V.A is a free-to-play online first-person shooter with multiple game modes, unique customizations, as well as PvP and PvE gameplay.",
@@ -1184,7 +1184,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ava"
     },
     {
-      "id": 534,
+      "id": "534",
       "title": "Lost Light",
       "thumbnail": "https://www.freetogame.com/g/534/thumbnail.jpg",
       "short_description": "A post-apocalyptic shooter built around creating a realistic experience.",
@@ -1197,7 +1197,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/lost-light"
     },
     {
-      "id": 524,
+      "id": "524",
       "title": "Temperia: Soul of Majestic",
       "thumbnail": "https://www.freetogame.com/g/524/thumbnail.jpg",
       "short_description": "Fans of collectible card games, are you looking for something a bit different from the normal fare? Then a peek at Moonwolf Entertainment and A2 Softworks’ Temperia: Soul of Majestic might be in order.",
@@ -1210,7 +1210,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/temperia"
     },
     {
-      "id": 526,
+      "id": "526",
       "title": "Chimeraland",
       "thumbnail": "https://www.freetogame.com/g/526/thumbnail.jpg",
       "short_description": "Explore the open-world sandbox MMO game set in a mythical world. Play as one of a large number of races, from jelly-fish to dragon-person – or even a regular old human if that’s your thing. Explore the land, gather resources, craft items, build homes and more.",
@@ -1223,7 +1223,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/chimeraland"
     },
     {
-      "id": 520,
+      "id": "520",
       "title": "Roller Champions",
       "thumbnail": "https://www.freetogame.com/g/520/thumbnail.jpg",
       "short_description": "What if you could player roller derby, but in a more organized and less physically dangerous environment?",
@@ -1236,7 +1236,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/roller-champions"
     },
     {
-      "id": 550,
+      "id": "550",
       "title": "Goose, Goose, DUCK",
       "thumbnail": "https://www.freetogame.com/g/550/thumbnail.jpg",
       "short_description": "A social deduction game with geese.",
@@ -1249,7 +1249,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/goose-goose-duck"
     },
     {
-      "id": 513,
+      "id": "513",
       "title": "Super Squad",
       "thumbnail": "https://www.freetogame.com/g/513/thumbnail.jpg",
       "short_description": "Prepare yourself. It’s time for Mayhem. Super Squad is a multi-player online shoot-’em-up (or MOSH)!",
@@ -1262,7 +1262,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/super-squad"
     },
     {
-      "id": 512,
+      "id": "512",
       "title": "Sherwood Extreme",
       "thumbnail": "https://www.freetogame.com/g/512/thumbnail.jpg",
       "short_description": "High action arcade shooter Sherwood Extreme sends players on a mission to save the kingdom!",
@@ -1275,7 +1275,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/sherwood-extreme"
     },
     {
-      "id": 509,
+      "id": "509",
       "title": "Smash Legends",
       "thumbnail": "https://www.freetogame.com/g/509/thumbnail.jpg",
       "short_description": "Classic fairy tales get wild with 5minlab and LINE Games Corporation’s brawl-action game Smash Legends.",
@@ -1288,7 +1288,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/smash-legends"
     },
     {
-      "id": 502,
+      "id": "502",
       "title": "Primordials: Battle of Gods",
       "thumbnail": "https://www.freetogame.com/g/502/thumbnail.jpg",
       "short_description": "Build armies and fight for control of the realm in Global Dodo Entertainment’s 1v1 strategy game Primordials: Battle of Gods. ",
@@ -1301,7 +1301,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/primordials-battle-of-gods"
     },
     {
-      "id": 507,
+      "id": "507",
       "title": "Super Mecha Champions",
       "thumbnail": "https://www.freetogame.com/g/507/thumbnail.jpg",
       "short_description": "Super Mecha Champions is a PC port of the mobile anime PvP game from NetEease, featuring a variety of modes but focusing on battle royale.",
@@ -1314,7 +1314,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/super-mecha-champions"
     },
     {
-      "id": 500,
+      "id": "500",
       "title": "Chroma: Bloom And Blight",
       "thumbnail": "https://www.freetogame.com/g/500/thumbnail.jpg",
       "short_description": "Competitive card game fans have a new, completely free option to add to their list. ",
@@ -1327,7 +1327,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/chroma-bloom-and-blight"
     },
     {
-      "id": 498,
+      "id": "498",
       "title": "Blankos Block Party",
       "thumbnail": "https://www.freetogame.com/g/498/thumbnail.jpg",
       "short_description": "What happens when you take the vinyl collectible toy experience and combine it with an open-world multiplayer game? You get Blankos Block Party!\r\n",
@@ -1340,7 +1340,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/blankos"
     },
     {
-      "id": 499,
+      "id": "499",
       "title": "Slapshot: Rebound",
       "thumbnail": "https://www.freetogame.com/g/499/thumbnail.jpg",
       "short_description": "Do you like hockey? How about physic-based multiplayer, arcade-style sports games with cute graphics? Well, this is the one for you.",
@@ -1353,7 +1353,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/slapshot-rebound"
     },
     {
-      "id": 476,
+      "id": "476",
       "title": "Rogue Company",
       "thumbnail": "https://www.freetogame.com/g/476/thumbnail.jpg",
       "short_description": "From Hi-Rez Studios, the team that brought you Smite and Paladins, comes Rogue Company, a cross-platform, competitive team-based third person shooter.",
@@ -1366,7 +1366,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rogue-company"
     },
     {
-      "id": 477,
+      "id": "477",
       "title": "Eternal Return: Black Survival",
       "thumbnail": "https://www.freetogame.com/g/477/thumbnail.jpg",
       "short_description": "Combining elements from battle royale, MOBA, and the survival genres, Eternal Return: Black Survival is a game designed with a broad audience in mind. ",
@@ -1379,7 +1379,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/eternal-return"
     },
     {
-      "id": 479,
+      "id": "479",
       "title": "Blood of Steel",
       "thumbnail": "https://www.freetogame.com/g/479/thumbnail.jpg",
       "short_description": "Blood of Steel is an online competitive strategy game featuring some of the most well-known figures throughout medieval history. Choose your general – a Crusader, Viking, Ninja or one of those from the Three Kingdoms. Build your kingdom and command armies in epic PvP battles using classic medieval warfare tactics.",
@@ -1392,7 +1392,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/blood-of-steel"
     },
     {
-      "id": 473,
+      "id": "473",
       "title": "Spellbreak",
       "thumbnail": "https://www.freetogame.com/g/473/thumbnail.jpg",
       "short_description": "Spellbreak is a multiplayer, multi-platform battle-royale where player take on the role of a “battlemage” mastering elemental magic and using spells to compete against other players.",
@@ -1405,7 +1405,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/spellbreak"
     },
     {
-      "id": 474,
+      "id": "474",
       "title": "Rocket League",
       "thumbnail": "https://www.freetogame.com/g/474/thumbnail.jpg",
       "short_description": "Get your car-soccer gaming on for free with Psyonix’s Rocket League. The popular competitive multi-player game is a popular offering with over 57 million players.",
@@ -1418,7 +1418,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rocket-league"
     },
     {
-      "id": 469,
+      "id": "469",
       "title": "Unfortunate Spacemen",
       "thumbnail": "https://www.freetogame.com/g/469/thumbnail.jpg",
       "short_description": "Unfortunate Spacemen is a co-op multiplayer game about Shapeshifting with a Co-op Story Mode, lots of objectives and more!",
@@ -1431,7 +1431,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/unfortunate-spacemen"
     },
     {
-      "id": 461,
+      "id": "461",
       "title": "Shop Titans",
       "thumbnail": "https://www.freetogame.com/g/461/thumbnail.jpg",
       "short_description": "A free-to-play RPG shopkeeper simulation game where you are responsible for designing and maintaining your own shop.",
@@ -1444,7 +1444,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/shop-titans"
     },
     {
-      "id": 459,
+      "id": "459",
       "title": "Bombergrounds: Battle Royale",
       "thumbnail": "https://www.freetogame.com/g/459/thumbnail.jpg",
       "short_description": "A free-to-play massively multiplayer battle Royale game inspired by the old-shool Bomberman games!",
@@ -1457,7 +1457,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/bombergrounds-battle-royale"
     },
     {
-      "id": 563,
+      "id": "563",
       "title": "Kakale Online",
       "thumbnail": "https://www.freetogame.com/g/563/thumbnail.jpg",
       "short_description": "A free-to-play top-down 2D MMORPG from developer and publisher ViVa Games.",
@@ -1470,7 +1470,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/kakale-online"
     },
     {
-      "id": 39,
+      "id": "39",
       "title": "Darwin Project",
       "thumbnail": "https://www.freetogame.com/g/39/thumbnail.jpg",
       "short_description": "A free-to-play 10-player battle royale game set just prior to an impeding ice age.",
@@ -1483,7 +1483,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/darwin-project"
     },
     {
-      "id": 441,
+      "id": "441",
       "title": "Legends of Runeterra",
       "thumbnail": "https://www.freetogame.com/g/441/thumbnail.jpg",
       "short_description": "A free-to-play CCG based on Riot Games' MOBA League of Legends.",
@@ -1496,7 +1496,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/runeterra"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "CRSED: F.O.A.D.",
       "thumbnail": "https://www.freetogame.com/g/4/thumbnail.jpg",
       "short_description": "Take the battle royale genre and add  mystical powers and you have CRSED: F.O.A.D. (Aka Cuisine Royale: Second Edition)",
@@ -1509,7 +1509,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/crsed"
     },
     {
-      "id": 436,
+      "id": "436",
       "title": "Inferna",
       "thumbnail": "https://www.freetogame.com/g/436/thumbnail.jpg",
       "short_description": "A cross-platform MMO from indie developer and publisher Inferna Limited, designed for players seeking a classic experience.  ",
@@ -1522,7 +1522,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/inferna"
     },
     {
-      "id": 437,
+      "id": "437",
       "title": "Stay Out",
       "thumbnail": "https://www.freetogame.com/g/437/thumbnail.jpg",
       "short_description": "An MMORPG featuring urban exploration and shooter elements.",
@@ -1535,7 +1535,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/stay-out"
     },
     {
-      "id": 439,
+      "id": "439",
       "title": "PC Futbol Legends",
       "thumbnail": "https://www.freetogame.com/g/439/thumbnail.jpg",
       "short_description": "An arcade soccer game inspired by cult arcade games from IDC games. ",
@@ -1548,7 +1548,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/futbol-legends"
     },
     {
-      "id": 505,
+      "id": "505",
       "title": "Mythgard",
       "thumbnail": "https://www.freetogame.com/g/505/thumbnail.jpg",
       "short_description": "Rhino Games Inc.’s CCG Mythgard combines cyberpunk with the heroes, gods, and creatures of the fantasy in a modern setting to create a world where magic competes against technology for control.",
@@ -1561,7 +1561,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mythgard"
     },
     {
-      "id": 446,
+      "id": "446",
       "title": "Legends of Aria",
       "thumbnail": "https://www.freetogame.com/g/446/thumbnail.jpg",
       "short_description": "A sandbox MMORPG featuring a skill-based system, content that will appeal to both PvE and PvP players, and a robust housing system.",
@@ -1574,7 +1574,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/legends-of-aria"
     },
     {
-      "id": 451,
+      "id": "451",
       "title": "Crystal Clash",
       "thumbnail": "https://www.freetogame.com/g/451/thumbnail.jpg",
       "short_description": "A free-to-play fantasy RTS developed by Crunchy Leaf Games. ",
@@ -1587,7 +1587,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/crystal-clash"
     },
     {
-      "id": 447,
+      "id": "447",
       "title": "Dota Underlords",
       "thumbnail": "https://www.freetogame.com/g/447/thumbnail.jpg",
       "short_description": "A free-to-play auto battler strategy game set in the world of Valve's Dota franchise.",
@@ -1600,7 +1600,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dota-underlords"
     },
     {
-      "id": 19,
+      "id": "19",
       "title": "Minion Masters",
       "thumbnail": "https://www.freetogame.com/g/19/thumbnail.jpg",
       "short_description": "A free-to-play strategic minion brawler from Danish developer Betadwarf. ",
@@ -1613,7 +1613,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/minion-masters"
     },
     {
-      "id": 20,
+      "id": "20",
       "title": "Splitgate: Arena Warfare",
       "thumbnail": "https://www.freetogame.com/g/20/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer shooter developed and published by 1047 games. ",
@@ -1626,7 +1626,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/splitgate-arena-warfare"
     },
     {
-      "id": 456,
+      "id": "456",
       "title": "Conqueror's Blade",
       "thumbnail": "https://www.freetogame.com/g/456/thumbnail.jpg",
       "short_description": "Command your own medieval army in Conqueror's Blade, a war simulator developed by Booming games.",
@@ -1639,7 +1639,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/conquerors-blade"
     },
     {
-      "id": 438,
+      "id": "438",
       "title": "Kards",
       "thumbnail": "https://www.freetogame.com/g/438/thumbnail.jpg",
       "short_description": "A free-to-play collectible World War II card game from developer 1939 Games.",
@@ -1652,7 +1652,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/kards"
     },
     {
-      "id": 448,
+      "id": "448",
       "title": "KurtzPel",
       "thumbnail": "https://www.freetogame.com/g/448/thumbnail.jpg",
       "short_description": "A free-to-play third-person action battle game from KOG Games.",
@@ -1665,7 +1665,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/kurtzpel"
     },
     {
-      "id": 91,
+      "id": "91",
       "title": "Eternal",
       "thumbnail": "https://www.freetogame.com/g/91/thumbnail.jpg",
       "short_description": "A strategy card game designed to take the best elements of Magic the Gathering, Hearthstone, and Hex and combine them all into one game.",
@@ -1678,7 +1678,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/eternal"
     },
     {
-      "id": 503,
+      "id": "503",
       "title": "Artifact",
       "thumbnail": "https://www.freetogame.com/g/503/thumbnail.jpg",
       "short_description": "Valve’s Artifact is two games in one. Whether you’re looking for the original Dota 2 trading card game created with the help of card game designer Richard Garfield or something a little more streamlined, Artifact has both in one download.",
@@ -1691,7 +1691,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/artifact"
     },
     {
-      "id": 538,
+      "id": "538",
       "title": "World War 3",
       "thumbnail": "https://www.freetogame.com/g/538/thumbnail.jpg",
       "short_description": "A realistic multiplayer tactical FPS.",
@@ -1704,7 +1704,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/world-war-3"
     },
     {
-      "id": 299,
+      "id": "299",
       "title": "Combat Arms: Reloaded",
       "thumbnail": "https://www.freetogame.com/g/299/thumbnail.jpg",
       "short_description": "A free to play modern first person shooter with lots of maps and weapons!",
@@ -1717,7 +1717,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/combat-arms"
     },
     {
-      "id": 68,
+      "id": "68",
       "title": "Dreadnought",
       "thumbnail": "https://www.freetogame.com/g/68/thumbnail.jpg",
       "short_description": "A free-to-play combat flight simulator developed by Yager Development and published by Grey Box. ",
@@ -1730,7 +1730,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dreadnought"
     },
     {
-      "id": 28,
+      "id": "28",
       "title": "Spacelords",
       "thumbnail": "https://www.freetogame.com/g/28/thumbnail.jpg",
       "short_description": "A free-to-play 4v1 sci-fi shooter. ",
@@ -1743,7 +1743,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/spacelords"
     },
     {
-      "id": 450,
+      "id": "450",
       "title": "Battlerite Royale",
       "thumbnail": "https://www.freetogame.com/g/450/thumbnail.jpg",
       "short_description": "A free to play battle royale set in the Battlerite universe.",
@@ -1756,7 +1756,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/battlerite-royale"
     },
     {
-      "id": 454,
+      "id": "454",
       "title": "Magic: The Gathering Arena",
       "thumbnail": "https://www.freetogame.com/g/454/thumbnail.jpg",
       "short_description": "A free-to-play digital recreation of Wizards of the Coast's popular collectible card game.",
@@ -1769,7 +1769,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mtg-arena"
     },
     {
-      "id": 282,
+      "id": "282",
       "title": "BlackShot: Revolution",
       "thumbnail": "https://www.freetogame.com/g/282/thumbnail.jpg",
       "short_description": "Get thrown into the fast-paced action of a virtual war zone and compete against other players.",
@@ -1782,7 +1782,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/blackshot"
     },
     {
-      "id": 31,
+      "id": "31",
       "title": "Cosmos Invictus",
       "thumbnail": "https://www.freetogame.com/g/31/thumbnail.jpg",
       "short_description": "A strategic collectible card game developed and published by Pegnio Ltd. ",
@@ -1795,7 +1795,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/cosmos-invictus"
     },
     {
-      "id": 506,
+      "id": "506",
       "title": "Totally Accurate Battlegrounds",
       "thumbnail": "https://www.freetogame.com/g/506/thumbnail.jpg",
       "short_description": "Take 60 players, throw them on a map together with over 90 weapons, including balloon crossbows, pots and pans, and inflatable hammers, add physics-based parkour and you have Landfall’s Totally Accurate Battlegrounds (TABG).",
@@ -1808,7 +1808,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/tabg"
     },
     {
-      "id": 434,
+      "id": "434",
       "title": "Will To Live",
       "thumbnail": "https://www.freetogame.com/g/434/thumbnail.jpg",
       "short_description": "A free-to-play MMORPG-shooter developed and published by AlphaSoft LLC.",
@@ -1821,7 +1821,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/will-to-live"
     },
     {
-      "id": 42,
+      "id": "42",
       "title": "Spellsworn",
       "thumbnail": "https://www.freetogame.com/g/42/thumbnail.jpg",
       "short_description": "A free-to-play arena battle game developed and published by Frogsong Studios AB. ",
@@ -1834,7 +1834,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/spellsworn"
     },
     {
-      "id": 43,
+      "id": "43",
       "title": "Z1 Battle Royale",
       "thumbnail": "https://www.freetogame.com/g/43/thumbnail.jpg",
       "short_description": "A highly competitive free-to-play battle royale shooter.",
@@ -1847,7 +1847,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/z1-battle-royale"
     },
     {
-      "id": 44,
+      "id": "44",
       "title": "Tale Of Toast",
       "thumbnail": "https://www.freetogame.com/g/44/thumbnail.jpg",
       "short_description": "A free-to-play open world MMO inspired by classic, core MMOs. ",
@@ -1860,7 +1860,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/tale-of-toast"
     },
     {
-      "id": 45,
+      "id": "45",
       "title": "SoulWorker",
       "thumbnail": "https://www.freetogame.com/g/45/thumbnail.jpg",
       "short_description": "A free to play anime action MMO based on the popular anime of the same title. ",
@@ -1873,7 +1873,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/soulworker"
     },
     {
-      "id": 47,
+      "id": "47",
       "title": "Bombtag",
       "thumbnail": "https://www.freetogame.com/g/47/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer Bomberman-inspired game.",
@@ -1886,7 +1886,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/bombtag"
     },
     {
-      "id": 48,
+      "id": "48",
       "title": "Ironsight",
       "thumbnail": "https://www.freetogame.com/g/48/thumbnail.jpg",
       "short_description": "A free-to-play futuristic shooter published by Aeria Games. ",
@@ -1899,7 +1899,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ironsight"
     },
     {
-      "id": 49,
+      "id": "49",
       "title": "Dead Maze",
       "thumbnail": "https://www.freetogame.com/g/49/thumbnail.jpg",
       "short_description": "A free-to-play 2D isometric MMO full of zombies. ",
@@ -1912,7 +1912,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dead-maze"
     },
     {
-      "id": 316,
+      "id": "316",
       "title": "Scions of Fate",
       "thumbnail": "https://www.freetogame.com/g/316/thumbnail.jpg",
       "short_description": "A friendly free to play MMORPG with easy to pick up controls.",
@@ -1925,7 +1925,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/scions-of-fate"
     },
     {
-      "id": 22,
+      "id": "22",
       "title": "Wild Terra Online",
       "thumbnail": "https://www.freetogame.com/g/22/thumbnail.jpg",
       "short_description": "A medieval sandbox MMO designed with core players in mind. ",
@@ -1938,7 +1938,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/wild-terra-online"
     },
     {
-      "id": 51,
+      "id": "51",
       "title": "Global Adventures",
       "thumbnail": "https://www.freetogame.com/g/51/thumbnail.jpg",
       "short_description": "A free-to-play MMORPG developed by PixelSoft and Published by SubaGames. ",
@@ -1951,7 +1951,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/global-adventures"
     },
     {
-      "id": 52,
+      "id": "52",
       "title": "Closers",
       "thumbnail": "https://www.freetogame.com/g/52/thumbnail.jpg",
       "short_description": "A free-to-play episodic anime beat-em-up developed \r\nby Naddic Games and published by \r\nEn Masse Entertainment. ",
@@ -1964,7 +1964,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/closers"
     },
     {
-      "id": 322,
+      "id": "322",
       "title": "La Tale Evolved",
       "thumbnail": "https://www.freetogame.com/g/322/thumbnail.jpg",
       "short_description": "A 2D side-scrolling fantasy MMORPG with anime-inspired graphics.",
@@ -1977,7 +1977,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/la-tale"
     },
     {
-      "id": 120,
+      "id": "120",
       "title": "Luna Online: Reborn",
       "thumbnail": "https://www.freetogame.com/g/120/thumbnail.jpg",
       "short_description": "A free-to-play, anime themed fantasy MMORPG and a remake of the previous Luna MMO! ",
@@ -1990,7 +1990,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/luna-online"
     },
     {
-      "id": 58,
+      "id": "58",
       "title": "The Ultimatest Battle",
       "thumbnail": "https://www.freetogame.com/g/58/thumbnail.jpg",
       "short_description": "A free-to-play 2D platform game that pits two teams of players against each other in a variety of modes. ",
@@ -2003,7 +2003,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/the-ultimatest-battle"
     },
     {
-      "id": 59,
+      "id": "59",
       "title": "Insidia",
       "thumbnail": "https://www.freetogame.com/g/59/thumbnail.jpg",
       "short_description": "A free-to-play tactical, turn-based dueling game developed and published by Bad Seed. ",
@@ -2016,7 +2016,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/insidia"
     },
     {
-      "id": 30,
+      "id": "30",
       "title": "Quake Champions",
       "thumbnail": "https://www.freetogame.com/g/30/thumbnail.jpg",
       "short_description": "Quake Champions is a callback to the early days of the Quake IP, featuring the fast-paced action that made the IP popular over two decades ago. ",
@@ -2029,7 +2029,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/quake-champions"
     },
     {
-      "id": 61,
+      "id": "61",
       "title": "Black Squad",
       "thumbnail": "https://www.freetogame.com/g/61/thumbnail.jpg",
       "short_description": "A free-to-play military FPS developed by NS STUDIO and published by NEOWIZ.",
@@ -2042,7 +2042,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/black-squad"
     },
     {
-      "id": 64,
+      "id": "64",
       "title": "Secret World Legends",
       "thumbnail": "https://www.freetogame.com/g/64/thumbnail.jpg",
       "short_description": "A free-to-play reboot of The Secret World. ",
@@ -2055,7 +2055,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/secret-world-legends"
     },
     {
-      "id": 63,
+      "id": "63",
       "title": "Argo",
       "thumbnail": "https://www.freetogame.com/g/63/thumbnail.jpg",
       "short_description": "A tactical first-person shooter from the Arma 3 developer.",
@@ -2068,7 +2068,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/argo"
     },
     {
-      "id": 65,
+      "id": "65",
       "title": "Pixel Worlds",
       "thumbnail": "https://www.freetogame.com/g/65/thumbnail.jpg",
       "short_description": "A free-to-play, side-scroller MMO sandbox game developed and published by Kukouri Mobile Entertainment. ",
@@ -2081,7 +2081,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/pixel-worlds"
     },
     {
-      "id": 55,
+      "id": "55",
       "title": "Deceit",
       "thumbnail": "https://www.freetogame.com/g/55/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer first-person shooter set \r\nin an asylum! ",
@@ -2094,7 +2094,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/deceit"
     },
     {
-      "id": 66,
+      "id": "66",
       "title": "Gwent: The Witcher Card Game",
       "thumbnail": "https://www.freetogame.com/g/66/thumbnail.jpg",
       "short_description": "A free-to-play card game based on CD Projekt Red's popular Witcher franchise. ",
@@ -2107,7 +2107,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/gwent"
     },
     {
-      "id": 67,
+      "id": "67",
       "title": "Awesomenauts",
       "thumbnail": "https://www.freetogame.com/g/67/thumbnail.jpg",
       "short_description": "A 3v3 2D battle arena Developed by Ronimo games.",
@@ -2120,7 +2120,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/awesomenauts"
     },
     {
-      "id": 70,
+      "id": "70",
       "title": "Alien Swarm: Reactive Drop",
       "thumbnail": "https://www.freetogame.com/g/70/thumbnail.jpg",
       "short_description": "A free-to-play top-down tactical co-op expansion on the Alien swarm game and Source SDK.",
@@ -2133,7 +2133,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/alien-swarm-reactive-drop"
     },
     {
-      "id": 71,
+      "id": "71",
       "title": "Catan Universe",
       "thumbnail": "https://www.freetogame.com/g/71/thumbnail.jpg",
       "short_description": "A free-to-play strategy game based on the classic board and card games. ",
@@ -2146,7 +2146,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/catan-universe"
     },
     {
-      "id": 72,
+      "id": "72",
       "title": "Krosmaga",
       "thumbnail": "https://www.freetogame.com/g/72/thumbnail.jpg",
       "short_description": "A free-to-play CCG/tower defense hybrid developed \r\nby Ankama Studio and published by \r\nAnkama Games. ",
@@ -2159,7 +2159,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/krosmaga"
     },
     {
-      "id": 77,
+      "id": "77",
       "title": "Revelation Online",
       "thumbnail": "https://www.freetogame.com/g/77/thumbnail.jpg",
       "short_description": "A free-to-play fantasy MMO developed by NetEase and published by My.com. ",
@@ -2172,7 +2172,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/revelation-online"
     },
     {
-      "id": 87,
+      "id": "87",
       "title": "MU Legend",
       "thumbnail": "https://www.freetogame.com/g/87/thumbnail.jpg",
       "short_description": "A free-to-play MMORPG developed by Webzen and the followup to MU Online. ",
@@ -2185,7 +2185,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mu-legend"
     },
     {
-      "id": 421,
+      "id": "421",
       "title": "Therian Saga",
       "thumbnail": "https://www.freetogame.com/g/421/thumbnail.jpg",
       "short_description": "A browser-based sandbox MMORPG with a complex crafting system.",
@@ -2198,7 +2198,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/therian-saga"
     },
     {
-      "id": 69,
+      "id": "69",
       "title": "Cabals: Card Blitz",
       "thumbnail": "https://www.freetogame.com/g/69/thumbnail.jpg",
       "short_description": "A free-to-play game developed by Kyy Games and published by BISBOG SA. ",
@@ -2211,7 +2211,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/cabals-card-blitz"
     },
     {
-      "id": 82,
+      "id": "82",
       "title": "Line of Sight",
       "thumbnail": "https://www.freetogame.com/g/82/thumbnail.jpg",
       "short_description": "Free FPS game described as \"Bioshock meets Call of Duty\"! ",
@@ -2224,7 +2224,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/line-of-sight"
     },
     {
-      "id": 85,
+      "id": "85",
       "title": "Infestation: The New Z",
       "thumbnail": "https://www.freetogame.com/g/85/thumbnail.jpg",
       "short_description": "A re-work of the open world zombie shooter game Infestation: Survivor Stories (or as it was formerly known \"The War Z\").",
@@ -2237,7 +2237,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/infestation-new-z"
     },
     {
-      "id": 92,
+      "id": "92",
       "title": "One Tower",
       "thumbnail": "https://www.freetogame.com/g/92/thumbnail.jpg",
       "short_description": "A unique 1v1 MOBA known as a \"micro-moba\" developed and published by SkyReacher following a successful Kickstarter. ",
@@ -2250,7 +2250,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/one-tower"
     },
     {
-      "id": 88,
+      "id": "88",
       "title": "Shadowverse",
       "thumbnail": "https://www.freetogame.com/g/88/thumbnail.jpg",
       "short_description": "A free-to-play strategic CCG developed and published by Cygamesm the creators of Rage of Bahamut and Granblu Fantasy. ",
@@ -2263,7 +2263,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/shadowverse"
     },
     {
-      "id": 89,
+      "id": "89",
       "title": "AdventureQuest 3D",
       "thumbnail": "https://www.freetogame.com/g/89/thumbnail.jpg",
       "short_description": "A free to play cross-platform MMORPG from the creators of the original 2D RPG game.",
@@ -2276,7 +2276,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/adventurequest-3d"
     },
     {
-      "id": 93,
+      "id": "93",
       "title": "Riding Club Championships",
       "thumbnail": "https://www.freetogame.com/g/93/thumbnail.jpg",
       "short_description": "An online competitive horse riding game inspired by traditional equestrian disciplines. ",
@@ -2289,7 +2289,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/riding-club-championships"
     },
     {
-      "id": 94,
+      "id": "94",
       "title": "Battlerite",
       "thumbnail": "https://www.freetogame.com/g/94/thumbnail.jpg",
       "short_description": "A free-to-play team arena brawler developed by Stunlock Studios. Players play as one of several available champions on teams in 2v2 or 3v3 matches. ",
@@ -2302,7 +2302,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/battlerite"
     },
     {
-      "id": 95,
+      "id": "95",
       "title": "Paladins",
       "thumbnail": "https://www.freetogame.com/g/95/thumbnail.jpg",
       "short_description": "A free-to-play team-based shooter developed and published by Hi-Rez Games, the creators of SMITE. ",
@@ -2315,7 +2315,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/paladins"
     },
     {
-      "id": 99,
+      "id": "99",
       "title": "Star Crusade",
       "thumbnail": "https://www.freetogame.com/g/99/thumbnail.jpg",
       "short_description": "A free-to-play sci-fi themed collectable card game developed and published by ZiMAD inc. ",
@@ -2328,7 +2328,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/star-crusade"
     },
     {
-      "id": 102,
+      "id": "102",
       "title": "The Elder Scrolls: Legends",
       "thumbnail": "https://www.freetogame.com/g/102/thumbnail.jpg",
       "short_description": "A free-to-play CCG based on The Elder Scrolls franchise. ",
@@ -2341,7 +2341,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/elder-scrolls-legends"
     },
     {
-      "id": 106,
+      "id": "106",
       "title": "Riders of Icarus",
       "thumbnail": "https://www.freetogame.com/g/106/thumbnail.jpg",
       "short_description": "A free-to-play action MMORPG featuring mounted, in-air combat. ",
@@ -2354,7 +2354,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/riders-of-icarus"
     },
     {
-      "id": 108,
+      "id": "108",
       "title": "Zula",
       "thumbnail": "https://www.freetogame.com/g/108/thumbnail.jpg",
       "short_description": "A free-to-play online FPS developed and published by IDC/Games. ",
@@ -2367,7 +2367,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/zula"
     },
     {
-      "id": 109,
+      "id": "109",
       "title": "LuckCatchers",
       "thumbnail": "https://www.freetogame.com/g/109/thumbnail.jpg",
       "short_description": "A free-to-play sandbox sim based on the novels of fantasy and steam-punk author A. Pehov.",
@@ -2380,7 +2380,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/luckcatchers"
     },
     {
-      "id": 110,
+      "id": "110",
       "title": "UFO Online: Invasion",
       "thumbnail": "https://www.freetogame.com/g/110/thumbnail.jpg",
       "short_description": "A free-to-play post-apocalyptic, turn-based tactical combat \r\nMMO developed by Bad Pixel. ",
@@ -2393,7 +2393,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ufo-online-invasion"
     },
     {
-      "id": 112,
+      "id": "112",
       "title": "Weapons Of Mythology",
       "thumbnail": "https://www.freetogame.com/g/112/thumbnail.jpg",
       "short_description": "A 3D free-to-play fantasy MMORPG published by IDC/Games. ",
@@ -2406,7 +2406,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/weapons-of-mythology"
     },
     {
-      "id": 116,
+      "id": "116",
       "title": "Tree of Savior",
       "thumbnail": "https://www.freetogame.com/g/116/thumbnail.jpg",
       "short_description": "A fantasy 3D MMORPG with a massive freedom of choice, cute looking characters and a distinct art style. ",
@@ -2419,7 +2419,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/tree-of-savior"
     },
     {
-      "id": 118,
+      "id": "118",
       "title": "Starbreak",
       "thumbnail": "https://www.freetogame.com/g/118/thumbnail.jpg",
       "short_description": "A Roguelike MMORPG with MetroidVania-style platformer \r\ngameplay! Castlevania and Metroid fans will \r\nlove this game! ",
@@ -2432,7 +2432,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/starbreak"
     },
     {
-      "id": 119,
+      "id": "119",
       "title": "Fantasy Tales Online",
       "thumbnail": "https://www.freetogame.com/g/119/thumbnail.jpg",
       "short_description": "A free-to-play, retro MMO featuring puzzles, a rich crafting system and Randomly generated dungeons! ",
@@ -2445,7 +2445,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fantasy-tales-online"
     },
     {
-      "id": 117,
+      "id": "117",
       "title": "Astral Heroes",
       "thumbnail": "https://www.freetogame.com/g/117/thumbnail.jpg",
       "short_description": "A free-to-play collectable card game from the creators of Astral Masters. ",
@@ -2458,7 +2458,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/astral-heroes"
     },
     {
-      "id": 124,
+      "id": "124",
       "title": "Holodrive",
       "thumbnail": "https://www.freetogame.com/g/124/thumbnail.jpg",
       "short_description": "A free-to-play 2D multiplayer shooter developed by BitCake Studio and published by Versus Evil in which players play as customizable robots or \"Dummys\". ",
@@ -2471,7 +2471,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/holodrive"
     },
     {
-      "id": 304,
+      "id": "304",
       "title": "Cabal Online",
       "thumbnail": "https://www.freetogame.com/g/304/thumbnail.jpg",
       "short_description": "A free to play fast-paced skill-based MMORPG in a stunning world!",
@@ -2484,7 +2484,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/cabal-online"
     },
     {
-      "id": 125,
+      "id": "125",
       "title": "Atom Universe",
       "thumbnail": "https://www.freetogame.com/g/125/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer online social Virtual World set in a theme park.",
@@ -2497,7 +2497,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/atom-universe"
     },
     {
-      "id": 128,
+      "id": "128",
       "title": "Spellweaver",
       "thumbnail": "https://www.freetogame.com/g/128/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer online collectible card \r\ngame that requires deep strategic and \r\nthinking.",
@@ -2510,7 +2510,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/spellweaver"
     },
     {
-      "id": 134,
+      "id": "134",
       "title": "War Trigger 3",
       "thumbnail": "https://www.freetogame.com/g/134/thumbnail.jpg",
       "short_description": "A MMO shooter with infantry, vehicle, and air combat across massive maps! ",
@@ -2523,7 +2523,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/wt3"
     },
     {
-      "id": 136,
+      "id": "136",
       "title": "VEGA Conflict",
       "thumbnail": "https://www.freetogame.com/g/136/thumbnail.jpg",
       "short_description": "A Cross-Platform free to play 2D sci-fi strategy MMO.",
@@ -2536,7 +2536,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/vega-conflict"
     },
     {
-      "id": 137,
+      "id": "137",
       "title": "Metal War Online: Retribution",
       "thumbnail": "https://www.freetogame.com/g/137/thumbnail.jpg",
       "short_description": "A high-speed multiplayer online concept car shooter game with racing elements!",
@@ -2549,7 +2549,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/metal-war-online"
     },
     {
-      "id": 139,
+      "id": "139",
       "title": "Immortal Empire",
       "thumbnail": "https://www.freetogame.com/g/139/thumbnail.jpg",
       "short_description": "A free to play multiplayer strategy RPG developed by Tactic Studios.",
@@ -2562,7 +2562,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/immortal-empire"
     },
     {
-      "id": 222,
+      "id": "222",
       "title": "MechWarrior Online",
       "thumbnail": "https://www.freetogame.com/g/222/thumbnail.jpg",
       "short_description": "A free-to-play PvP game that's a faithful adaptation of the popular MechWarrior strategy board games.",
@@ -2575,7 +2575,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mechwarrior-online"
     },
     {
-      "id": 7,
+      "id": "7",
       "title": "Armored Warfare",
       "thumbnail": "https://www.freetogame.com/g/7/thumbnail.jpg",
       "short_description": "A modern team-based MMO tank game from Obsidian Entertainment.",
@@ -2588,7 +2588,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/armored-warfare"
     },
     {
-      "id": 149,
+      "id": "149",
       "title": "America’s Army: Proving Grounds",
       "thumbnail": "https://www.freetogame.com/g/149/thumbnail.jpg",
       "short_description": "Take a first person shooter, have the game developed by the U.S. Army and you’ve got America’s Army.",
@@ -2601,7 +2601,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/americas-army"
     },
     {
-      "id": 121,
+      "id": "121",
       "title": "Forza Motorsport 6: Apex",
       "thumbnail": "https://www.freetogame.com/g/121/thumbnail.jpg",
       "short_description": "A free-to-play MMO racing game that comes from makers of one of the most popular video game racing series ever. ",
@@ -2614,7 +2614,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/forza-motorsport-6-apex"
     },
     {
-      "id": 152,
+      "id": "152",
       "title": "WARMODE",
       "thumbnail": "https://www.freetogame.com/g/152/thumbnail.jpg",
       "short_description": "A Free to play multiplayer online shooter. Sight in enemies to master Headshots, Double Kills and Triple Kills! ",
@@ -2627,7 +2627,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/warmode"
     },
     {
-      "id": 154,
+      "id": "154",
       "title": "Sphere 3: Enchanted World",
       "thumbnail": "https://www.freetogame.com/g/154/thumbnail.jpg",
       "short_description": "A fantasy action MMORPG with a non-target combat system.",
@@ -2640,7 +2640,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/sphere-3"
     },
     {
-      "id": 157,
+      "id": "157",
       "title": "Fishing Planet",
       "thumbnail": "https://www.freetogame.com/g/157/thumbnail.jpg",
       "short_description": "A Free to play realistic online first-person multiplayer fishing simulator! ",
@@ -2653,7 +2653,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fishing-planet"
     },
     {
-      "id": 159,
+      "id": "159",
       "title": "Codename CURE",
       "thumbnail": "https://www.freetogame.com/g/159/thumbnail.jpg",
       "short_description": "A free to play 3D MMOFPS featuring cooperative play, and objective-based missions.",
@@ -2666,7 +2666,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/codename-cure"
     },
     {
-      "id": 161,
+      "id": "161",
       "title": "Skyforge",
       "thumbnail": "https://www.freetogame.com/g/161/thumbnail.jpg",
       "short_description": "A impressive Free to play MMORPG where you can become a god! ",
@@ -2679,7 +2679,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/skyforge"
     },
     {
-      "id": 163,
+      "id": "163",
       "title": "Card Hunter",
       "thumbnail": "https://www.freetogame.com/g/163/thumbnail.jpg",
       "short_description": "A free online collectible card game which blends together role-playing, card play and tactical combat. ",
@@ -2692,7 +2692,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/card-hunter"
     },
     {
-      "id": 104,
+      "id": "104",
       "title": "Fallout Shelter",
       "thumbnail": "https://www.freetogame.com/g/104/thumbnail.jpg",
       "short_description": "A free-to-play simulation game based on Bethesda Game Studios' popular Fallout franchise. ",
@@ -2705,7 +2705,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fallout-shelter"
     },
     {
-      "id": 167,
+      "id": "167",
       "title": "Salem",
       "thumbnail": "https://www.freetogame.com/g/167/thumbnail.jpg",
       "short_description": "A free-to-play, sandbox type MMO based on the times and trials of living.",
@@ -2718,7 +2718,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/salem"
     },
     {
-      "id": 168,
+      "id": "168",
       "title": "Heroes of the Storm",
       "thumbnail": "https://www.freetogame.com/g/168/thumbnail.jpg",
       "short_description": "A free to play MOBA developed by Blizzard Entertainment.",
@@ -2731,7 +2731,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/heroes-of-the-storm"
     },
     {
-      "id": 169,
+      "id": "169",
       "title": "Dirty Bomb",
       "thumbnail": "https://www.freetogame.com/g/169/thumbnail.jpg",
       "short_description": "A free-to-play first person shooter multiplayer game set in a post-apocalyptic London.",
@@ -2744,7 +2744,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dirty-bomb"
     },
     {
-      "id": 173,
+      "id": "173",
       "title": "Block N Load",
       "thumbnail": "https://www.freetogame.com/g/173/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer online shooter game that looks like a mix of Minecraft and Team Fortress 2.",
@@ -2757,7 +2757,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/block-n-load"
     },
     {
-      "id": 175,
+      "id": "175",
       "title": "Survarium",
       "thumbnail": "https://www.freetogame.com/g/175/thumbnail.jpg",
       "short_description": "A free to play post-apocalyptic online FPS game.",
@@ -2770,7 +2770,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/survarium"
     },
     {
-      "id": 177,
+      "id": "177",
       "title": "Dungeon Fighter Online",
       "thumbnail": "https://www.freetogame.com/g/177/thumbnail.jpg",
       "short_description": "A free to play arcade-style side-scrolling action game mixed with RPG elements.",
@@ -2783,7 +2783,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dungeon-fighter-online"
     },
     {
-      "id": 56,
+      "id": "56",
       "title": "Grimoire: Manastorm",
       "thumbnail": "https://www.freetogame.com/g/56/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer FPS... with wizards. ",
@@ -2796,7 +2796,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/grimoire-manastorm"
     },
     {
-      "id": 179,
+      "id": "179",
       "title": "Transformice",
       "thumbnail": "https://www.freetogame.com/g/179/thumbnail.jpg",
       "short_description": "A cute little free-to-play MMO platformer.",
@@ -2809,7 +2809,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/transformice"
     },
     {
-      "id": 180,
+      "id": "180",
       "title": "Gear Up",
       "thumbnail": "https://www.freetogame.com/g/180/thumbnail.jpg",
       "short_description": "Control your unique tank or robot in multiplayer arcade action!",
@@ -2822,7 +2822,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/gear-up"
     },
     {
-      "id": 181,
+      "id": "181",
       "title": "8BitMMO",
       "thumbnail": "https://www.freetogame.com/g/181/thumbnail.jpg",
       "short_description": "A free to play retro­-style 2D MMO and a giant construction sandbox! ",
@@ -2835,7 +2835,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/8bitmmo"
     },
     {
-      "id": 182,
+      "id": "182",
       "title": "Dungeon Defenders 2",
       "thumbnail": "https://www.freetogame.com/g/182/thumbnail.jpg",
       "short_description": "A free-to-play cooperative 3D tower-defense game by Trendy Entertainment.",
@@ -2848,7 +2848,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dungeon-defenders-2"
     },
     {
-      "id": 184,
+      "id": "184",
       "title": "Blockade 3D",
       "thumbnail": "https://www.freetogame.com/g/184/thumbnail.jpg",
       "short_description": "A free to play FPS in an editable procedural world.",
@@ -2861,7 +2861,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/blockade-3d"
     },
     {
-      "id": 185,
+      "id": "185",
       "title": "Eldevin",
       "thumbnail": "https://www.freetogame.com/g/185/thumbnail.jpg",
       "short_description": "A indie story-driven Free to Play MMORPG.",
@@ -2874,7 +2874,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/eldevin"
     },
     {
-      "id": 186,
+      "id": "186",
       "title": "Double Action",
       "thumbnail": "https://www.freetogame.com/g/186/thumbnail.jpg",
       "short_description": "A free to play FPS with bullet time and stylish kills!",
@@ -2887,7 +2887,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/double-action"
     },
     {
-      "id": 187,
+      "id": "187",
       "title": "Pox Nora",
       "thumbnail": "https://www.freetogame.com/g/187/thumbnail.jpg",
       "short_description": "A multiplayer online game that combines a collectible card game with a turn-based strategy game.",
@@ -2900,7 +2900,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/pox-nora"
     },
     {
-      "id": 188,
+      "id": "188",
       "title": "Counter-Strike Nexon: Studio",
       "thumbnail": "https://www.freetogame.com/g/188/thumbnail.jpg",
       "short_description": "What's better than Counter-Strike? Counter-Strike with more modes and Zombies!",
@@ -2913,7 +2913,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/counter-strike-nexon"
     },
     {
-      "id": 189,
+      "id": "189",
       "title": "Uncharted Waters Online",
       "thumbnail": "https://www.freetogame.com/g/189/thumbnail.jpg",
       "short_description": "A free to play adventure MMORPG set on the high seas! ",
@@ -2926,7 +2926,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/uncharted-waters-online"
     },
     {
-      "id": 10,
+      "id": "10",
       "title": "ArcheAge",
       "thumbnail": "https://www.freetogame.com/g/10/thumbnail.jpg",
       "short_description": "A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds.",
@@ -2939,7 +2939,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/archeage"
     },
     {
-      "id": 192,
+      "id": "192",
       "title": "WAKFU",
       "thumbnail": "https://www.freetogame.com/g/192/thumbnail.jpg",
       "short_description": "A 2D tactical turn-based fantasy MMORPG developed by Ankama Games, in conjunction with Square Enix.",
@@ -2952,7 +2952,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/wakfu"
     },
     {
-      "id": 193,
+      "id": "193",
       "title": "Infinity Wars",
       "thumbnail": "https://www.freetogame.com/g/193/thumbnail.jpg",
       "short_description": "A MMO trading card game, Build up your decks and customize them with tons of factional cards! ",
@@ -2965,7 +2965,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/infinity-wars"
     },
     {
-      "id": 195,
+      "id": "195",
       "title": "Divine Souls",
       "thumbnail": "https://www.freetogame.com/g/195/thumbnail.jpg",
       "short_description": "A action-based MMORPG in a fantasy world with magic and technology. ",
@@ -2978,7 +2978,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/divine-souls"
     },
     {
-      "id": 196,
+      "id": "196",
       "title": "Cubic Castles",
       "thumbnail": "https://www.freetogame.com/g/196/thumbnail.jpg",
       "short_description": "A free to play 3D Platforming and a open world building game.",
@@ -2991,7 +2991,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/cubic-castles"
     },
     {
-      "id": 198,
+      "id": "198",
       "title": "Creativerse",
       "thumbnail": "https://www.freetogame.com/g/198/thumbnail.jpg",
       "short_description": "Playful Corporation enters the sandbox, voxel world with their free-to-play title Creativers.",
@@ -3004,7 +3004,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/creativerse"
     },
     {
-      "id": 199,
+      "id": "199",
       "title": "Royal Quest",
       "thumbnail": "https://www.freetogame.com/g/199/thumbnail.jpg",
       "short_description": "A free to play fantasy MMORPG game with unique PvPvE locations, PvP Arenas, Battlegrounds and Castle Sieges. ",
@@ -3017,7 +3017,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/royal-quest"
     },
     {
-      "id": 200,
+      "id": "200",
       "title": "Guns and Robots",
       "thumbnail": "https://www.freetogame.com/g/200/thumbnail.jpg",
       "short_description": "A free to play online third person shooter with massive customization! ",
@@ -3030,7 +3030,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/guns-and-robots"
     },
     {
-      "id": 203,
+      "id": "203",
       "title": "Robocraft",
       "thumbnail": "https://www.freetogame.com/g/203/thumbnail.jpg",
       "short_description": "A free-to-play MMO sandbox building game! ",
@@ -3043,7 +3043,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/robocraft"
     },
     {
-      "id": 204,
+      "id": "204",
       "title": "Unturned",
       "thumbnail": "https://www.freetogame.com/g/204/thumbnail.jpg",
       "short_description": "A independently developed free-to-play MMO survival \r\ngame! ",
@@ -3056,7 +3056,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/unturned"
     },
     {
-      "id": 207,
+      "id": "207",
       "title": "Warface",
       "thumbnail": "https://www.freetogame.com/g/207/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer online FPS from Crytek, makers of the Far Cry and Crysis series of games.",
@@ -3069,7 +3069,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/warface"
     },
     {
-      "id": 209,
+      "id": "209",
       "title": "Freestyle2: Street Basketball",
       "thumbnail": "https://www.freetogame.com/g/209/thumbnail.jpg",
       "short_description": "A free to play MMO street basketball game. Team up with the best street ballers! ",
@@ -3082,7 +3082,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/freestyle2-street-basketball"
     },
     {
-      "id": 210,
+      "id": "210",
       "title": "Fistful of Frags",
       "thumbnail": "https://www.freetogame.com/g/210/thumbnail.jpg",
       "short_description": "A first person shooter game set in the Wild West! ",
@@ -3095,7 +3095,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fistful-of-frags"
     },
     {
-      "id": 211,
+      "id": "211",
       "title": "GunZ 2: The Second Duel",
       "thumbnail": "https://www.freetogame.com/g/211/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer Third Person Shooter and follow up to the successful GunZ: The Duel. ",
@@ -3108,7 +3108,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/gunz-2"
     },
     {
-      "id": 213,
+      "id": "213",
       "title": "Archeblade",
       "thumbnail": "https://www.freetogame.com/g/213/thumbnail.jpg",
       "short_description": "A free-to-play PvP-based multiplayer action game based on a Korean Fantasy Novel.",
@@ -3121,7 +3121,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/archeblade"
     },
     {
-      "id": 214,
+      "id": "214",
       "title": "Villagers and Heroes",
       "thumbnail": "https://www.freetogame.com/g/214/thumbnail.jpg",
       "short_description": "A free-to-play fantasy sandbox 3D MMORPG that has plenty to offer gamers.",
@@ -3134,7 +3134,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/villagers-and-heroes"
     },
     {
-      "id": 215,
+      "id": "215",
       "title": "Hex",
       "thumbnail": "https://www.freetogame.com/g/215/thumbnail.jpg",
       "short_description": "HEX combines roleplaying aspects of a MMO with the collectible and strategic gameplay of a Trading Card Game.",
@@ -3147,7 +3147,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/hex"
     },
     {
-      "id": 217,
+      "id": "217",
       "title": "Smite",
       "thumbnail": "https://www.freetogame.com/g/217/thumbnail.jpg",
       "short_description": "A popular free-to-play 3D MOBA where you take on the role of an ancient god.",
@@ -3160,7 +3160,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/smite"
     },
     {
-      "id": 239,
+      "id": "239",
       "title": "Dogs of War Online",
       "thumbnail": "https://www.freetogame.com/g/239/thumbnail.jpg",
       "short_description": "Based on the famous miniature board game Confrontation!",
@@ -3173,7 +3173,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dogs-war-online"
     },
     {
-      "id": 220,
+      "id": "220",
       "title": "Hearthstone: Heroes of Warcraft",
       "thumbnail": "https://www.freetogame.com/g/220/thumbnail.jpg",
       "short_description": "Blizzard's free-to-play collectible card game that \r\ndraws its inspiration from World of Warcraft. ",
@@ -3186,7 +3186,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/hearthstone-heroes-warcraft"
     },
     {
-      "id": 221,
+      "id": "221",
       "title": "Lucent Heart",
       "thumbnail": "https://www.freetogame.com/g/221/thumbnail.jpg",
       "short_description": "A free to play MMORPG with a match making system that helps players find their soulmates.",
@@ -3199,7 +3199,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/lucent-heart"
     },
     {
-      "id": 206,
+      "id": "206",
       "title": "Aura Kingdom",
       "thumbnail": "https://www.freetogame.com/g/206/thumbnail.jpg",
       "short_description": "Aura Kingdom is a 3D free-to-play Anime MMORPG from the same great studio that brought us Eden Eterna.",
@@ -3212,7 +3212,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/aura-kingdom"
     },
     {
-      "id": 224,
+      "id": "224",
       "title": "World of Warplanes",
       "thumbnail": "https://www.freetogame.com/g/224/thumbnail.jpg",
       "short_description": "A free-to-play flight combat MMO brought to you by Wargaming.",
@@ -3225,7 +3225,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/world-of-warplanes"
     },
     {
-      "id": 225,
+      "id": "225",
       "title": "RIFT",
       "thumbnail": "https://www.freetogame.com/g/225/thumbnail.jpg",
       "short_description": "Trion Worlds’ flagship fantasy massively multiplayer online role-playing game.",
@@ -3238,7 +3238,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rift"
     },
     {
-      "id": 226,
+      "id": "226",
       "title": "Path of Exile",
       "thumbnail": "https://www.freetogame.com/g/226/thumbnail.jpg",
       "short_description": "A free-to-play massively multiplayer online ARPG in the style of Diablo.",
@@ -3251,7 +3251,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/path-of-exile"
     },
     {
-      "id": 229,
+      "id": "229",
       "title": "Dota 2",
       "thumbnail": "https://www.freetogame.com/g/229/thumbnail.jpg",
       "short_description": "Valve's premiere competitive free to play MOBA.",
@@ -3264,7 +3264,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dota-2"
     },
     {
-      "id": 230,
+      "id": "230",
       "title": "Ragnarok Online 2",
       "thumbnail": "https://www.freetogame.com/g/230/thumbnail.jpg",
       "short_description": "A 3D fantasy MMORPG, and sequel to the popular Ragnarok Online.",
@@ -3277,7 +3277,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ragnarok-online-2"
     },
     {
-      "id": 231,
+      "id": "231",
       "title": "Panzar",
       "thumbnail": "https://www.freetogame.com/g/231/thumbnail.jpg",
       "short_description": "A free-to-play multiplayer third-person shooter with \r\nrpg elements and CryEngine 3 powered \r\ngraphics.",
@@ -3290,7 +3290,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/panzar"
     },
     {
-      "id": 233,
+      "id": "233",
       "title": "Kingdom Wars",
       "thumbnail": "https://www.freetogame.com/g/233/thumbnail.jpg",
       "short_description": "A free to play 3D MMORTS with real-time siege combat.",
@@ -3303,7 +3303,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/kingdom-wars"
     },
     {
-      "id": 234,
+      "id": "234",
       "title": "Champions of Regnum",
       "thumbnail": "https://www.freetogame.com/g/234/thumbnail.jpg",
       "short_description": "A free to play, realm versus realm fantasy MMORPG.",
@@ -3316,7 +3316,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/champions-of-regnum"
     },
     {
-      "id": 235,
+      "id": "235",
       "title": "Star Conflict",
       "thumbnail": "https://www.freetogame.com/g/235/thumbnail.jpg",
       "short_description": "A free to play action-packed MMO space simulation game.",
@@ -3329,7 +3329,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/star-conflict"
     },
     {
-      "id": 240,
+      "id": "240",
       "title": "Epic Cards Battle",
       "thumbnail": "https://www.freetogame.com/g/240/thumbnail.jpg",
       "short_description": "A free to play online strategic trading card game with dozens of cards and five factions. ",
@@ -3342,7 +3342,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/epic-card-battle"
     },
     {
-      "id": 232,
+      "id": "232",
       "title": "Age of Wushu",
       "thumbnail": "https://www.freetogame.com/g/232/thumbnail.jpg",
       "short_description": "A free-to-play martial arts action MMORPG with a large open world and sandbox-like features.",
@@ -3355,7 +3355,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/age-of-wushu"
     },
     {
-      "id": 241,
+      "id": "241",
       "title": "Everquest",
       "thumbnail": "https://www.freetogame.com/g/241/thumbnail.jpg",
       "short_description": "A fantasy MMORPG nearly two decades in the making. In fact, it’s the game that started it all! ",
@@ -3368,7 +3368,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/everquest"
     },
     {
-      "id": 242,
+      "id": "242",
       "title": "Mabinogi",
       "thumbnail": "https://www.freetogame.com/g/242/thumbnail.jpg",
       "short_description": "A free-to-play adventure MMORPG where you can create a unique character and live your fantasy life.",
@@ -3381,7 +3381,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mabinogi"
     },
     {
-      "id": 243,
+      "id": "243",
       "title": "PlanetSide 2",
       "thumbnail": "https://www.freetogame.com/g/243/thumbnail.jpg",
       "short_description": "A free-to-play open-world FPS that pits three factions against each other in a never-ending war.",
@@ -3394,7 +3394,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/planetside-2"
     },
     {
-      "id": 244,
+      "id": "244",
       "title": "AirMech",
       "thumbnail": "https://www.freetogame.com/g/244/thumbnail.jpg",
       "short_description": "A free to play Action RTS with MOBA elements.",
@@ -3407,7 +3407,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/airmech"
     },
     {
-      "id": 246,
+      "id": "246",
       "title": "Pirate 101",
       "thumbnail": "https://www.freetogame.com/g/246/thumbnail.jpg",
       "short_description": "A free to play Pirate-themed MMORPG designed with kids in mind.",
@@ -3420,7 +3420,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/pirate-101"
     },
     {
-      "id": 248,
+      "id": "248",
       "title": "Continent of the Ninth Seal",
       "thumbnail": "https://www.freetogame.com/g/248/thumbnail.jpg",
       "short_description": "A free MMORPG where players take part as heroes of Glenheim to stand together against Nefer.",
@@ -3433,7 +3433,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/c9"
     },
     {
-      "id": 24,
+      "id": "24",
       "title": "Counter-Strike: Global Offensive",
       "thumbnail": "https://www.freetogame.com/g/24/thumbnail.jpg",
       "short_description": "The popular multiplayer shooter from Valve. ",
@@ -3446,7 +3446,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/counter-strike-global-offensive"
     },
     {
-      "id": 453,
+      "id": "453",
       "title": "Gotham City Impostors",
       "thumbnail": "https://www.freetogame.com/g/453/thumbnail.jpg",
       "short_description": "A free to play multiplayer FPS that pits vigilantes dressed up like Batman against criminals dressed up like the Joker",
@@ -3459,7 +3459,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/gotham-city-impostors"
     },
     {
-      "id": 249,
+      "id": "249",
       "title": "RPG MO",
       "thumbnail": "https://www.freetogame.com/g/249/thumbnail.jpg",
       "short_description": "A nostalgic free MMORPG reminiscent of old-school RPG's like Ultima and Runescape.",
@@ -3472,7 +3472,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rpg-mo"
     },
     {
-      "id": 256,
+      "id": "256",
       "title": "Realm of the Mad God",
       "thumbnail": "https://www.freetogame.com/g/256/thumbnail.jpg",
       "short_description": "A fast paced 2d free to play MMO shooter game with a retro 8-bit style.",
@@ -3485,7 +3485,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/realm-mad-god"
     },
     {
-      "id": 257,
+      "id": "257",
       "title": "Star Wars: The Old Republic",
       "thumbnail": "https://www.freetogame.com/g/257/thumbnail.jpg",
       "short_description": "A 3D sci-fi MMORPG based on the popular Star Wars universe and brought to you by Bioware. ",
@@ -3498,7 +3498,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/swtor"
     },
     {
-      "id": 261,
+      "id": "261",
       "title": "No More Room in Hell",
       "thumbnail": "https://www.freetogame.com/g/261/thumbnail.jpg",
       "short_description": "A free to play cooperative FPS survival horror mod for the Source Engine.",
@@ -3511,7 +3511,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/no-more-room-in-hell"
     },
     {
-      "id": 262,
+      "id": "262",
       "title": "Digimon Masters Online",
       "thumbnail": "https://www.freetogame.com/g/262/thumbnail.jpg",
       "short_description": "A free to play 3D MMORPG based on the popular Digimon franchise.",
@@ -3524,7 +3524,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/digimon-masters-online"
     },
     {
-      "id": 264,
+      "id": "264",
       "title": "Dragon Nest",
       "thumbnail": "https://www.freetogame.com/g/264/thumbnail.jpg",
       "short_description": "A free-to-play action MMORPG with non-targeting combat.",
@@ -3537,7 +3537,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dragon-nest"
     },
     {
-      "id": 267,
+      "id": "267",
       "title": "Mission Against Terror",
       "thumbnail": "https://www.freetogame.com/g/267/thumbnail.jpg",
       "short_description": "A free to play fast-paced lobby-based MMOFPS with lots of game modes and tons of weapons.",
@@ -3550,7 +3550,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mat"
     },
     {
-      "id": 269,
+      "id": "269",
       "title": "Spiral Knights",
       "thumbnail": "https://www.freetogame.com/g/269/thumbnail.jpg",
       "short_description": "A massively multiplayer online role-playing game, battle monsters and collect treasures!",
@@ -3563,7 +3563,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/spiral-knights"
     },
     {
-      "id": 271,
+      "id": "271",
       "title": "Asda Global",
       "thumbnail": "https://www.freetogame.com/g/271/thumbnail.jpg",
       "short_description": "A 3D anime-inspired fantasy MMORPG and is the successor to the original Asda Story.",
@@ -3576,7 +3576,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/asda-global"
     },
     {
-      "id": 60,
+      "id": "60",
       "title": "Brink",
       "thumbnail": "https://www.freetogame.com/g/60/thumbnail.jpg",
       "short_description": "A free-to-play first-person-shoot developed by Splash \r\nDamage and published by Bethesda Softworks. ",
@@ -3589,7 +3589,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/brink"
     },
     {
-      "id": 272,
+      "id": "272",
       "title": "Allods Online",
       "thumbnail": "https://www.freetogame.com/g/272/thumbnail.jpg",
       "short_description": "A fantasy MMORPG that follows more traditional “World of Warcraft-like” MMO traditions.",
@@ -3602,7 +3602,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/allods-online"
     },
     {
-      "id": 205,
+      "id": "205",
       "title": "Elsword",
       "thumbnail": "https://www.freetogame.com/g/205/thumbnail.jpg",
       "short_description": "A Free to Play 3D side scrolling action MMORPG with many heroes.",
@@ -3615,7 +3615,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/elsword"
     },
     {
-      "id": 260,
+      "id": "260",
       "title": "DC Universe Online",
       "thumbnail": "https://www.freetogame.com/g/260/thumbnail.jpg",
       "short_description": "A free-to-play, comics based MMORPG set in the popular DC Comics universe.",
@@ -3628,7 +3628,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dcuo"
     },
     {
-      "id": 273,
+      "id": "273",
       "title": "Bloodline Champions",
       "thumbnail": "https://www.freetogame.com/g/273/thumbnail.jpg",
       "short_description": "Free-to-Play Moba game where players engage in short battles of up to ten players divided into two teams.",
@@ -3641,7 +3641,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/bloodline-champions"
     },
     {
-      "id": 274,
+      "id": "274",
       "title": "GetAmped 2",
       "thumbnail": "https://www.freetogame.com/g/274/thumbnail.jpg",
       "short_description": "A free to play fighting MMO, experience frantic battles up to 20 players.",
@@ -3654,7 +3654,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/getamped-2"
     },
     {
-      "id": 275,
+      "id": "275",
       "title": "Dragon Saga",
       "thumbnail": "https://www.freetogame.com/g/275/thumbnail.jpg",
       "short_description": "A free to play arcade­-style side­-scrolling 3D MMORPG.",
@@ -3667,7 +3667,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dragon-saga"
     },
     {
-      "id": 276,
+      "id": "276",
       "title": "Vindictus",
       "thumbnail": "https://www.freetogame.com/g/276/thumbnail.jpg",
       "short_description": "A free to play action MMO game with beautiful graphics and intense battles.",
@@ -3680,7 +3680,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/vindictus"
     },
     {
-      "id": 277,
+      "id": "277",
       "title": "Aika Online",
       "thumbnail": "https://www.freetogame.com/g/277/thumbnail.jpg",
       "short_description": "A free-to-play MMORPG with large scale PvP battles.",
@@ -3693,7 +3693,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/aika-online"
     },
     {
-      "id": 258,
+      "id": "258",
       "title": "APB Reloaded",
       "thumbnail": "https://www.freetogame.com/g/258/thumbnail.jpg",
       "short_description": "A free to play 3D MMO third person shooter game brought to you by GTA creator.",
@@ -3706,7 +3706,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/apb"
     },
     {
-      "id": 278,
+      "id": "278",
       "title": "Mortal Online",
       "thumbnail": "https://www.freetogame.com/g/278/thumbnail.jpg",
       "short_description": "A unique free to play First Person sandbox MMORPG.",
@@ -3719,7 +3719,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mortal-online"
     },
     {
-      "id": 281,
+      "id": "281",
       "title": "Grand Fantasia",
       "thumbnail": "https://www.freetogame.com/g/281/thumbnail.jpg",
       "short_description": "A free to play anime inspired 3D MMORPG with customizable characters and \r\ncompanions.",
@@ -3732,7 +3732,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/grand-fantasia"
     },
     {
-      "id": 286,
+      "id": "286",
       "title": "League of Legends",
       "thumbnail": "https://www.freetogame.com/g/286/thumbnail.jpg",
       "short_description": "A free-to-play MOBA game, and one of the most played pc game in the world.",
@@ -3745,7 +3745,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/league-of-legends"
     },
     {
-      "id": 287,
+      "id": "287",
       "title": "Twelve Sky 2",
       "thumbnail": "https://www.freetogame.com/g/287/thumbnail.jpg",
       "short_description": "There’s a lot of world to explore in this fantasy MMORPG!",
@@ -3758,7 +3758,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/twelve-sky-2"
     },
     {
-      "id": 288,
+      "id": "288",
       "title": "Champions Online",
       "thumbnail": "https://www.freetogame.com/g/288/thumbnail.jpg",
       "short_description": "A superhero MMORPG created by the same studio behind City of Heroes.",
@@ -3771,7 +3771,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/champions-online"
     },
     {
-      "id": 280,
+      "id": "280",
       "title": "WolfTeam",
       "thumbnail": "https://www.freetogame.com/g/280/thumbnail.jpg",
       "short_description": "A free to play MMOFPS with a twist.",
@@ -3784,7 +3784,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/wolfteam"
     },
     {
-      "id": 290,
+      "id": "290",
       "title": "Runes of Magic",
       "thumbnail": "https://www.freetogame.com/g/290/thumbnail.jpg",
       "short_description": "A free-to-play fantasy 3D MMORPG set in the fantasy world of Taborea.",
@@ -3797,7 +3797,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/runes-of-magic"
     },
     {
-      "id": 291,
+      "id": "291",
       "title": "theHunter",
       "thumbnail": "https://www.freetogame.com/g/291/thumbnail.jpg",
       "short_description": "An MMO shooter where players can hunt 22 different animals in various locations.",
@@ -3810,7 +3810,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/thehunter"
     },
     {
-      "id": 254,
+      "id": "254",
       "title": "AION",
       "thumbnail": "https://www.freetogame.com/g/254/thumbnail.jpg",
       "short_description": "A high fantasy, free-to-play MMORPG that centers on the war between the game’s two factions: The Asmodians and the Elyos.",
@@ -3823,7 +3823,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/aion"
     },
     {
-      "id": 293,
+      "id": "293",
       "title": "Atlantica Online",
       "thumbnail": "https://www.freetogame.com/g/293/thumbnail.jpg",
       "short_description": "A free-to-play 3D tactical massively multiplayer online role-playing game.",
@@ -3836,7 +3836,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/atlantica-online"
     },
     {
-      "id": 295,
+      "id": "295",
       "title": "Florensia",
       "thumbnail": "https://www.freetogame.com/g/295/thumbnail.jpg",
       "short_description": "A free to play fantasy MMORPG with legendary worlds ashore and at \r\nsea.",
@@ -3849,7 +3849,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/florensia"
     },
     {
-      "id": 306,
+      "id": "306",
       "title": "4Story",
       "thumbnail": "https://www.freetogame.com/g/306/thumbnail.jpg",
       "short_description": "A enjoyable MMORPG where you can customize your character, join guilds and battle other factions.",
@@ -3862,7 +3862,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/4story"
     },
     {
-      "id": 296,
+      "id": "296",
       "title": "S4 league",
       "thumbnail": "https://www.freetogame.com/g/296/thumbnail.jpg",
       "short_description": "A free to play MMO Shooter with fluid gameplay and acrobatic moves!",
@@ -3875,7 +3875,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/s4-league"
     },
     {
-      "id": 297,
+      "id": "297",
       "title": "Wizard101",
       "thumbnail": "https://www.freetogame.com/g/297/thumbnail.jpg",
       "short_description": "A free to play MMORPG set in the magical Wizard school.",
@@ -3888,7 +3888,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/wizard101"
     },
     {
-      "id": 298,
+      "id": "298",
       "title": "Perfect World International",
       "thumbnail": "https://www.freetogame.com/g/298/thumbnail.jpg",
       "short_description": "A free-to-play fantasy MMORPG, that focuses heavily on Chinese mythology.",
@@ -3901,7 +3901,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/pwi"
     },
     {
-      "id": 319,
+      "id": "319",
       "title": "Ace Online",
       "thumbnail": "https://www.freetogame.com/g/319/thumbnail.jpg",
       "short_description": "A free to play fast action 3D sci-fi MMO where players control space fighters jets.",
@@ -3914,7 +3914,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ace-online"
     },
     {
-      "id": 300,
+      "id": "300",
       "title": "Rohan: Blood Feud",
       "thumbnail": "https://www.freetogame.com/g/300/thumbnail.jpg",
       "short_description": "A free-to-play medieval MMORPG highly-focused on PVP.",
@@ -3927,7 +3927,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rohan-blood-feud"
     },
     {
-      "id": 301,
+      "id": "301",
       "title": "Age of Conan: Unchained",
       "thumbnail": "https://www.freetogame.com/g/301/thumbnail.jpg",
       "short_description": "A award ­winning massively multiplayer online game that has received critical acclaim.",
@@ -3940,7 +3940,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/age-of-conan"
     },
     {
-      "id": 303,
+      "id": "303",
       "title": "Saga",
       "thumbnail": "https://www.freetogame.com/g/303/thumbnail.jpg",
       "short_description": "A free-to-play MMORTS that also features city-building and trading card games.",
@@ -3953,7 +3953,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/saga"
     },
     {
-      "id": 305,
+      "id": "305",
       "title": "Fiesta Online",
       "thumbnail": "https://www.freetogame.com/g/305/thumbnail.jpg",
       "short_description": "A free to play anime MMORPG with a friendly community.",
@@ -3966,7 +3966,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/fiesta-online"
     },
     {
-      "id": 307,
+      "id": "307",
       "title": "Shaiya",
       "thumbnail": "https://www.freetogame.com/g/307/thumbnail.jpg",
       "short_description": "A free to play 3D MMORPG similar to World of Warcraft and Lineage 2.",
@@ -3979,7 +3979,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/shaiya"
     },
     {
-      "id": 308,
+      "id": "308",
       "title": "Angels Online",
       "thumbnail": "https://www.freetogame.com/g/308/thumbnail.jpg",
       "short_description": "A cute anime MMORPG with a good selection of classes.",
@@ -3992,7 +3992,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/angels-online"
     },
     {
-      "id": 309,
+      "id": "309",
       "title": "Seal Online",
       "thumbnail": "https://www.freetogame.com/g/309/thumbnail.jpg",
       "short_description": "A free MMORP that has been out for a long period of time with solid history under its belt.",
@@ -4005,7 +4005,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/seal-online"
     },
     {
-      "id": 310,
+      "id": "310",
       "title": "Team Fortress 2",
       "thumbnail": "https://www.freetogame.com/g/310/thumbnail.jpg",
       "short_description": "Valve's iconic class-based free-to-play first-person shooter!",
@@ -4018,7 +4018,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/team-fortress-2"
     },
     {
-      "id": 311,
+      "id": "311",
       "title": "Rumble Fighter",
       "thumbnail": "https://www.freetogame.com/g/311/thumbnail.jpg",
       "short_description": "A free to play Fighting MMO, test your skills!",
@@ -4031,7 +4031,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rumble-fighter"
     },
     {
-      "id": 312,
+      "id": "312",
       "title": "Granado Espada Online",
       "thumbnail": "https://www.freetogame.com/g/312/thumbnail.jpg",
       "short_description": "Adventure back to colonial times where you can find prestige, wealth, adventure, and a lot of work.",
@@ -4044,7 +4044,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/granado-espada"
     },
     {
-      "id": 265,
+      "id": "265",
       "title": "9Dragons",
       "thumbnail": "https://www.freetogame.com/g/265/thumbnail.jpg",
       "short_description": "A martial arts themed MMORPG set in China during the Ming Dynasty.",
@@ -4057,7 +4057,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/9dragons"
     },
     {
-      "id": 15,
+      "id": "15",
       "title": "Crossfire",
       "thumbnail": "https://www.freetogame.com/g/15/thumbnail.jpg",
       "short_description": "A first person tactical shooter with a huge selection of game modes!",
@@ -4070,7 +4070,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/crossfire"
     },
     {
-      "id": 313,
+      "id": "313",
       "title": "Teeworlds",
       "thumbnail": "https://www.freetogame.com/g/313/thumbnail.jpg",
       "short_description": "A free to play retro multiplayer online shooter where you can even design your own maps!",
@@ -4083,7 +4083,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/teeworlds"
     },
     {
-      "id": 337,
+      "id": "337",
       "title": "Priston Tale",
       "thumbnail": "https://www.freetogame.com/g/337/thumbnail.jpg",
       "short_description": "A free to play action-oriented fantasy MMORPG!",
@@ -4096,7 +4096,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/priston-tale"
     },
     {
-      "id": 314,
+      "id": "314",
       "title": "Audition Online",
       "thumbnail": "https://www.freetogame.com/g/314/thumbnail.jpg",
       "short_description": "A 3D rhythm MMO, Compete against other players in dance competitions.",
@@ -4109,7 +4109,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/audition-online"
     },
     {
-      "id": 16,
+      "id": "16",
       "title": "Roblox",
       "thumbnail": "https://www.freetogame.com/g/16/thumbnail.jpg",
       "short_description": "A free to play sandbox MMO with lots of creation options.",
@@ -4122,7 +4122,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/roblox"
     },
     {
-      "id": 315,
+      "id": "315",
       "title": "Voyage Century Online",
       "thumbnail": "https://www.freetogame.com/g/315/thumbnail.jpg",
       "short_description": "A massive open world ship vs. ship combat game where players will take charge of their own vessel.",
@@ -4135,7 +4135,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/voyage-century-online"
     },
     {
-      "id": 333,
+      "id": "333",
       "title": "Metin2",
       "thumbnail": "https://www.freetogame.com/g/333/thumbnail.jpg",
       "short_description": "A classic free to play 3D MMORPG with a retro feel.",
@@ -4148,7 +4148,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/metin2"
     },
     {
-      "id": 317,
+      "id": "317",
       "title": "Rappelz",
       "thumbnail": "https://www.freetogame.com/g/317/thumbnail.jpg",
       "short_description": "A free to play 3D classic MMORPG with robust features.",
@@ -4161,7 +4161,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rappelz"
     },
     {
-      "id": 320,
+      "id": "320",
       "title": "Dungeons and Dragons Online",
       "thumbnail": "https://www.freetogame.com/g/320/thumbnail.jpg",
       "short_description": "A free-to-play MMORPG based on the beloved D&D RPG that started it all.",
@@ -4174,7 +4174,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dungeons-dragons-online"
     },
     {
-      "id": 321,
+      "id": "321",
       "title": "RF Online",
       "thumbnail": "https://www.freetogame.com/g/321/thumbnail.jpg",
       "short_description": "A free to play Sci-fi MMORPG with Large-Scale PvP and fast-paced gameplay.",
@@ -4187,7 +4187,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/rf-online"
     },
     {
-      "id": 323,
+      "id": "323",
       "title": "Flyff: Fly For Fun",
       "thumbnail": "https://www.freetogame.com/g/323/thumbnail.jpg",
       "short_description": "A free-to-play anime MMORPG with charming visual aesthetic and an addictive gameplay.",
@@ -4200,7 +4200,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/flyff"
     },
     {
-      "id": 324,
+      "id": "324",
       "title": "Dream of Mirror Online",
       "thumbnail": "https://www.freetogame.com/g/324/thumbnail.jpg",
       "short_description": "A free to play fantasy MMORPG with tons of social features.",
@@ -4213,7 +4213,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/domo"
     },
     {
-      "id": 325,
+      "id": "325",
       "title": "MapleStory",
       "thumbnail": "https://www.freetogame.com/g/325/thumbnail.jpg",
       "short_description": "A popular free-to-play 2D side-scrolling MMORPG with tons of quests, and a huge game world!",
@@ -4226,7 +4226,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/maplestory"
     },
     {
-      "id": 326,
+      "id": "326",
       "title": "Shot Online",
       "thumbnail": "https://www.freetogame.com/g/326/thumbnail.jpg",
       "short_description": "A free to play Golfing MMO that any golf lover will enjoy to play!",
@@ -4239,7 +4239,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/shot-online"
     },
     {
-      "id": 327,
+      "id": "327",
       "title": "Everquest 2",
       "thumbnail": "https://www.freetogame.com/g/327/thumbnail.jpg",
       "short_description": "A free to play 3D fantasy MMORPG and the sequel to EverQuest.",
@@ -4252,7 +4252,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/everquest-2"
     },
     {
-      "id": 328,
+      "id": "328",
       "title": "Dofus",
       "thumbnail": "https://www.freetogame.com/g/328/thumbnail.jpg",
       "short_description": "A 2D MMORPG with tons of different classes and a tactical combat system.",
@@ -4265,7 +4265,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/dofus"
     },
     {
-      "id": 190,
+      "id": "190",
       "title": "Ryzom",
       "thumbnail": "https://www.freetogame.com/g/190/thumbnail.jpg",
       "short_description": "An MMORPG where players are immersed in a massive sandbox world.",
@@ -4278,7 +4278,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ryzom"
     },
     {
-      "id": 329,
+      "id": "329",
       "title": "Kal Online",
       "thumbnail": "https://www.freetogame.com/g/329/thumbnail.jpg",
       "short_description": "A Korean Fantasy MMORPG developed by Inixsoft.",
@@ -4291,7 +4291,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/kalonline"
     },
     {
-      "id": 330,
+      "id": "330",
       "title": "Lineage 2",
       "thumbnail": "https://www.freetogame.com/g/330/thumbnail.jpg",
       "short_description": "A 3D fantasy MMORPG with a strong emphasis on PvP.",
@@ -4304,7 +4304,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/lineage-2"
     },
     {
-      "id": 332,
+      "id": "332",
       "title": "Red Stone Online",
       "thumbnail": "https://www.freetogame.com/g/332/thumbnail.jpg",
       "short_description": "A free to play 2D old school isometric MMORPG similar to Diablo.",
@@ -4317,7 +4317,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/red-stone-online"
     },
     {
-      "id": 334,
+      "id": "334",
       "title": "Mu Online",
       "thumbnail": "https://www.freetogame.com/g/334/thumbnail.jpg",
       "short_description": "A free to play Dungeon Crawler game like Diablo!",
@@ -4330,7 +4330,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/mu-online"
     },
     {
-      "id": 18,
+      "id": "18",
       "title": "Second Life",
       "thumbnail": "https://www.freetogame.com/g/18/thumbnail.jpg",
       "short_description": "A free to play 3D online virtual world with a huge reputation! ",
@@ -4343,7 +4343,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/second-life"
     },
     {
-      "id": 335,
+      "id": "335",
       "title": "Ragnarok Online",
       "thumbnail": "https://www.freetogame.com/g/335/thumbnail.jpg",
       "short_description": "A popular fantasy MMORPG, back to the golden age of MMORPGs.",
@@ -4356,7 +4356,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/ragnarok-online"
     },
     {
-      "id": 17,
+      "id": "17",
       "title": "Entropia Universe",
       "thumbnail": "https://www.freetogame.com/g/17/thumbnail.jpg",
       "short_description": "A 3D MMO Multi Virtual World Real Cash Economy Experience with RPG elements. ",
@@ -4369,7 +4369,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/entropia-universe"
     },
     {
-      "id": 336,
+      "id": "336",
       "title": "Anarchy Online",
       "thumbnail": "https://www.freetogame.com/g/336/thumbnail.jpg",
       "short_description": "A free to play Sci-Fi MMO that has withstood the test of time.",
@@ -4382,7 +4382,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/anarchy-online"
     },
     {
-      "id": 251,
+      "id": "251",
       "title": "The Lord of the Rings Online",
       "thumbnail": "https://www.freetogame.com/g/251/thumbnail.jpg",
       "short_description": "A free to play MMORPG set in the world of J.R.R. Tolkien's \r\nclassic fantasy saga.",
@@ -4395,7 +4395,7 @@
       "freetogame_profile_url": "https://www.freetogame.com/lotro"
     },
     {
-      "id": 339,
+      "id": "339",
       "title": "Tibia",
       "thumbnail": "https://www.freetogame.com/g/339/thumbnail.jpg",
       "short_description": "A old-school free-to-play massively multiplayer online \r\nrole-playing game.",
@@ -4408,5 +4408,84 @@
       "freetogame_profile_url": "https://www.freetogame.com/tibia"
     }
   ],
-  "favorites": []
+  "favorites": [
+    {
+      "id": "571",
+      "title": "Infinite Borders",
+      "thumbnail": "https://www.freetogame.com/g/571/thumbnail.jpg",
+      "short_description": "A free-to-play strategy game from NetEase set during China’s Three Kingdoms period.",
+      "game_url": "https://www.freetogame.com/open/infinite-borders",
+      "genre": "Strategy",
+      "platform": "PC (Windows)",
+      "publisher": "NetEase Games",
+      "developer": "NetEase Games",
+      "release_date": "2023-12-22",
+      "freetogame_profile_url": "https://www.freetogame.com/infinite-borders"
+    },
+    {
+      "id": "586",
+      "title": "Stormgate",
+      "thumbnail": "https://www.freetogame.com/g/586/thumbnail.jpg",
+      "short_description": "A free-to-play science fantasy real-time strategy game in which humans and robots defend Earth from alien forces.",
+      "game_url": "https://www.freetogame.com/open/stormgate",
+      "genre": "Strategy",
+      "platform": "PC (Windows)",
+      "publisher": "Frost Giant Studios",
+      "developer": "Frost Giant Studios",
+      "release_date": "2024-07-30",
+      "freetogame_profile_url": "https://www.freetogame.com/stormgate"
+    },
+    {
+      "id": "459",
+      "title": "Bombergrounds: Battle Royale",
+      "thumbnail": "https://www.freetogame.com/g/459/thumbnail.jpg",
+      "short_description": "A free-to-play massively multiplayer battle Royale game inspired by the old-shool Bomberman games!",
+      "game_url": "https://www.freetogame.com/open/bombergrounds-battle-royale",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "publisher": "Giant Duck Games",
+      "developer": "Giant Duck Games",
+      "release_date": "2020-03-07",
+      "freetogame_profile_url": "https://www.freetogame.com/bombergrounds-battle-royale"
+    },
+    {
+      "id": "590",
+      "title": "Throne And Liberty",
+      "thumbnail": "https://www.freetogame.com/g/590/thumbnail.jpg",
+      "short_description": "A free-to-play multi-platorm MMORPG from NCSoft and Amazon Games.",
+      "game_url": "https://www.freetogame.com/open/throne-and-liberty",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Amazon Games",
+      "developer": "NCSoft",
+      "release_date": "2024-10-01",
+      "freetogame_profile_url": "https://www.freetogame.com/throne-and-liberty"
+    },
+    {
+      "id": "339",
+      "title": "Tibia",
+      "thumbnail": "https://www.freetogame.com/g/339/thumbnail.jpg",
+      "short_description": "A old-school free-to-play massively multiplayer online \r\nrole-playing game.",
+      "game_url": "https://www.freetogame.com/open/tibia",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "CipSoft",
+      "developer": "CipSoft",
+      "release_date": "1997-01-07",
+      "freetogame_profile_url": "https://www.freetogame.com/tibia"
+    },
+    {
+      "id": "582",
+      "title": "Tarisland",
+      "thumbnail": "https://www.freetogame.com/g/582/thumbnail.jpg",
+      "short_description": "A cross-platform MMORPG developed by Level Infinite and Published by Tencent.",
+      "game_url": "https://www.freetogame.com/open/tarisland",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "publisher": "Tencent",
+      "developer": "Level Infinite",
+      "release_date": "2024-06-22",
+      "freetogame_profile_url": "https://www.freetogame.com/tarisland"
+    }
+  ]
 }

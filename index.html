@@ -4,42 +4,81 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Free to Play Games</title>
-  <link rel="stylesheet" href=".css/style.css" />
+  <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <header>
+  <div id="loadingSpinner" class="loading-spinner">
+    <div class="spinner"></div>
+    <p>Loading games...</p>
+  </div>
 
-    <h1>🎮 Free to Play Games</h1>
+  <header>
+    <div class="header-top">
+      <h1>🎮 Free to Play Games</h1>
+      <button id="themeToggle" class="theme-toggle">🌙</button>
+    </div>
+    
     <div class="controls">
-      <input type="text" id="searchInput" placeholder="Search games..." />
-      <select id="genreFilter">
-        <option value="">All Genres</option>
-      </select>
-      <select id="platformFilter">
-        <option value="">All Platforms</option>
-      </select>
+      <div class="search-section">
+        <input type="text" id="searchInput" placeholder="Search games..." />
+        <button id="clearSearch" class="clear-btn">✕</button>
+      </div>
+      
+      <div class="filter-section">
+        <select id="genreFilter">
+          <option value="">All Genres</option>
+        </select>
+        <select id="platformFilter">
+          <option value="">All Platforms</option>
+        </select>
+        <select id="sortFilter">
+          <option value="">Sort by...</option>
+          <option value="title">Title A-Z</option>
+          <option value="title-desc">Title Z-A</option>
+          <option value="genre">Genre</option>
+          <option value="platform">Platform</option>
+        </select>
+        <button id="resetFilters" class="reset-btn">Reset All</button>
+      </div>
     </div>
   </header>
 
   <main>
-    <section>
-      <h2>Game List</h2>
-      <div id="gameList" class="game-list"></div>
-    </section>
-
-    <section>
-      <h2>Game Details</h2>
-      <div id="gameDetails" class="game-details hidden"></div>
-    </section>
-
-    <section>
-      <h2>My Favorites ❤️</h2>
-      <div id="favoritesList" class="game-list"></div>
-    </section>
+    <div class="main-header">
+      <div class="nav-tabs">
+        <button id="allGamesTab" class="nav-tab active">🎮 All Games</button>
+        <button id="favoritesTab" class="nav-tab">❤️ Favorites</button>
+        <button id="recentTab" class="nav-tab">👁️ Recent</button>
+      </div>
+      <div class="view-controls">
+        <button id="gridView" class="view-btn active">⊞</button>
+        <button id="listView" class="view-btn">☰</button>
+      </div>
+    </div>
+    
+    <div id="gameList" class="game-list"></div>
+    
+    <div id="gameDetails" class="game-details hidden"></div>
+    <div id="favoritesList" class="game-list hidden"></div>
+    <div id="recentList" class="game-list hidden"></div>
   </main>
 
-  
   <div id="pagination"></div>
+
+  <div id="ratingModal" class="modal hidden">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h3>Rate this game</h3>
+      <div class="star-rating">
+        <span class="star" data-rating="1">★</span>
+        <span class="star" data-rating="2">★</span>
+        <span class="star" data-rating="3">★</span>
+        <span class="star" data-rating="4">★</span>
+        <span class="star" data-rating="5">★</span>
+      </div>
+      <button id="submitRating">Submit Rating</button>
+    </div>
+  </div>
 
   <script src="src/index.js"></script>
 </body>
