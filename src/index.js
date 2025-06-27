@@ -413,7 +413,15 @@ function submitRating() {
   showNotification(`Rated ${currentRatingGame.title} ${selectedStars}/5 stars!`, 'success');
   closeRatingModal();
   
-  displayGames(getCurrentPageData());
+  // Refresh current view
+  const activeTab = document.querySelector('.nav-tab.active');
+  if (activeTab.id === 'allGamesTab') {
+    displayGames(getCurrentPageData());
+  } else if (activeTab.id === 'favoritesTab') {
+    loadFavorites();
+  } else if (activeTab.id === 'recentTab') {
+    displayRecentlyViewed();
+  }
 }
 
 // Recently viewed games
