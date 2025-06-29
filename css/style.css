@@ -476,10 +476,11 @@ a:hover {
 }
 
 #pagination {
-  position: fixed;
-  bottom: 0;
+  position: fixed !important;
+  bottom: 0 !important;
   left: 0;
   right: 0;
+  width: 100%;
   text-align: center;
   padding: 15px;
   background: var(--bg-secondary);
