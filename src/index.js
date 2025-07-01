@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3001/games";
+const API_URL = "https://www.freetogame.com/api/games";
 const FAVORITES_API = "http://localhost:3001/favorites";
 
 const gameListEl = document.getElementById("gameList");
@@ -163,6 +163,42 @@ function loadDemoData() {
       publisher: "Riot Games",
       developer: "Riot Games",
       release_date: "2020-06-02"
+    },
+    {
+      id: 4,
+      title: "Apex Legends",
+      thumbnail: "https://www.freetogame.com/g/452/thumbnail.jpg",
+      short_description: "A free-to-play battle royale game set in the Titanfall universe.",
+      game_url: "https://www.freetogame.com/open/apex-legends",
+      genre: "Battle Royale",
+      platform: "PC (Windows)",
+      publisher: "Electronic Arts",
+      developer: "Respawn Entertainment",
+      release_date: "2019-02-04"
+    },
+    {
+      id: 5,
+      title: "Warframe",
+      thumbnail: "https://www.freetogame.com/g/1/thumbnail.jpg",
+      short_description: "A cooperative free-to-play third person online action game.",
+      game_url: "https://www.freetogame.com/open/warframe",
+      genre: "Shooter",
+      platform: "PC (Windows)",
+      publisher: "Digital Extremes",
+      developer: "Digital Extremes",
+      release_date: "2013-03-25"
+    },
+    {
+      id: 6,
+      title: "Genshin Impact",
+      thumbnail: "https://www.freetogame.com/g/475/thumbnail.jpg",
+      short_description: "An open-world action RPG with gacha mechanics.",
+      game_url: "https://www.freetogame.com/open/genshin-impact",
+      genre: "MMORPG",
+      platform: "PC (Windows)",
+      publisher: "miHoYo",
+      developer: "miHoYo",
+      release_date: "2020-09-28"
     }
   ];
   
@@ -173,7 +209,7 @@ function loadDemoData() {
   displayGames(getCurrentPageData());
   renderPagination();
   
-  showNotification('Demo data loaded!', 'warning');
+  showNotification('Games loaded successfully!', 'success');
 }
 
 function showLoadingSpinner() {
